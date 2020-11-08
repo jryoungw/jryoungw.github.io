@@ -32,10 +32,10 @@ $$
 (q_1, p_1) = (q_0, p_0) + \int_{t_0}^{t_1}S(q,p)dt
 $$
 
-$$\textbf{Hamiltonian Mechanics}$$ Willam Hamiltonian은 19세기에 고전역학의 새로운 formulation을 하였다. 이것이 헤밀토니안 역학으로서, 다음과 같은 특징을 갖는다.
+$\textbf{Hamiltonian Mechanics}$ Willam Hamiltonian은 19세기에 고전역학의 새로운 formulation을 하였다. 이것이 헤밀토니안 역학으로서, 다음과 같은 특징을 갖는다.
 
-1. 계는 크게 두 가지의 좌표 $$q=(q_1, \cdots, q_N)$$과 $$p=(p_1, \cdots, p_N)$$을 갖는데, $$q$$는 주로 위치를 의미하고 $$p$$는 운동량을 의미한다. 
-2. $$\mathcal{H}(p,q)$$는 다음 미분방정식을 만족한다.
+1. 계는 크게 두 가지의 좌표 $q=(q_1, \cdots, q_N)$과 $p=(p_1, \cdots, p_N)$을 갖는데, $q$는 주로 위치를 의미하고 $p$는 운동량을 의미한다. 
+2. $\mathcal{H}(p,q)$는 다음 미분방정식을 만족한다.
 
 
 $$
@@ -43,9 +43,9 @@ $$
 $$
 
 
-즉, 위 미분방정식은 벡터 $$S_{\mathcal{H}} = (\frac{\partial\mathcal{H}}{\partial p}, -\frac{\partial\mathcal{H}}{\partial q})$$가 바로 계의 time-evolving quantity를 재준다는 것을 말하고 있다.
+즉, 위 미분방정식은 벡터 $S_{\mathcal{H}} = (\frac{\partial\mathcal{H}}{\partial p}, -\frac{\partial\mathcal{H}}{\partial q})$가 바로 계의 time-evolving quantity를 재준다는 것을 말하고 있다.
 
-$$\textbf{Hamiltonian Neural Network}$$ HNN 논문에서는, $$S_{\mathcal{H}}$$대신 $$\mathcal{H}$$자체를 학습시키는 것을 목표로 한다. 즉, 다음 loss function
+$\textbf{Hamiltonian Neural Network}$ HNN 논문에서는, $S_{\mathcal{H}}$대신 $\mathcal{H}$자체를 학습시키는 것을 목표로 한다. 즉, 다음 loss function
 
 
 $$
