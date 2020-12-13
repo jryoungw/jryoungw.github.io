@@ -13,4 +13,4 @@ use_math: true
 
 지난 1년간 생물학, 의학을 연구들은 코비드19에 몰려 있었다고 해도 전혀 과장이 아닐 것입니다. 수많은 저널들이 코비드 연구를 우선순위로 올려주고, 수많은 분야의 수많은 사람들이 셀 수 없을 코비드 연구를 했습니다.
 
-그렇다면 우리는 지금 어디쯤 있는 것일까요. 세계 최고 의학 저널인 [New England Journal of Medicine](https://www.nejm.org/)에 올라온 Pfizer사의 백신 논문을 읽어보았습니다.
+그렇다면 우리는 지금 어디쯤 있는 것일까요. 세계 최고 의학 저널인 [New England Journal of Medicine](https://www.nejm.org/)에 올라온 Pfizer사의 백신 [논문](https://www.nejm.org/doi/full/10.1056/NEJMoa2034577?query=RP)과 그 [Editorial](https://www.nejm.org/doi/pdf/10.1056/NEJMe2034717?articleTools=true)을 읽어보았습니다.
