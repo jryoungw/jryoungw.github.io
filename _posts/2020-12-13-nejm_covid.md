@@ -27,11 +27,11 @@ use_math: true
 
 ## Antigenic Target
 
-이름이 어려울 뿐 antigenic target strategy가 바로 위에서 언급한 surface spiking protein을 무력화해서 치료/예방을 하자는 전략이다. 위에서 언급했으므로 구체적인 내용은 생략. 자세한 reference를 원하는 사람은 아래 **References**의 3번 항목을 참조하라.
+이름이 어려울 뿐 antigenic target strategy가 바로 위에서 언급한 surface spiking protein을 무력화해서 치료/예방을 하자는 전략이다. 위에서 언급했으므로 구체적인 내용은 생략. 자세한 reference를 원하는 사람은 아래 **References**의 3번 항목을 참조.
 
 ## Inavtivated Vaccines
 
-한국말로 하면 inactivted vaccines는 불활성화 백신(사백신)으로 번역되는데, 말 그대로 세포를 죽여서 접종을 하는 것을 의미한다. 세포의 구조는 살려놓고 활성도만 감마선 조사와 같은 방식으로 제거하기 때문에 안전하지만 상대적으로 효과가 약하거나 여러 번 접종을 필요로 한다.
+한국말로 하면 inactivted vaccines는 불활성화 백신(사백신)으로 번역되는데, 말 그대로 세포를 죽여서 접종을 하는 것을 의미한다. 세포의 구조는 살려놓고 활성도만 감마선 조사와 같은 방식으로 제거하기 때문에 안전하지만 상대적으로 효과가 약하거나 여러 번 접종을 필요로 한다. **Reference** 3번 참조.
 
 ## Live Atttenuated Vaccines
 
@@ -39,12 +39,15 @@ use_math: true
 
 ## Recombinant Protein Vaccines
 
-우리말로 하면 단백질 재조합 백신이라고 할 수 있다. 바이러스가 다른 종(곤충, 포유동물, 효모, 식물)에 대해 발현되는 단백질들을 가져와서 접종하는 것을 의미한다. 이 방식은 살아있는 바이러스를 복제하지 않아도 된다는 장점이 있어 생산속도가 빠르다는 장점이 있다. SARS-Cov-2의 단백질 재조합 백신은 재조합 spike proteine 백신, 부착부위(receptor-binding domain) 재조합 백신, 유사 바이러스 입자(virus-like protein; VLP) 백신을 포하한다.
+우리말로 하면 단백질 재조합 백신이라고 할 수 있다. 바이러스가 다른 종(곤충, 포유동물, 효모, 식물)에 대해 발현되는 단백질들을 가져와서 접종하는 것을 의미한다. 이 방식은 살아있는 바이러스를 복제하지 않아도 된다는 장점이 있어 생산속도가 빠르다는 장점이 있다. SARS-Cov-2의 단백질 재조합 백신은 재조합 spike proteine 백신, 부착부위(receptor-binding domain) 재조합 백신, 유사 바이러스 입자(virus-like protein; VLP) 백신을 포함한다. **Reference** 3번 참조.
 
 ## DNA Vaccines
 
+DNA 백신은 플라스미드(plasmid) DNA라는 것을 갖고 만드는 백신이다. 특이적인 것은 대장균(*Escherichia coli*)을 통해 대량 생산이 가능하다는 장점을 갖고 있지만, 면역력을 생성하는 능력이 떨어지고 electroporator라는 것을 필요로 하기에 사용이 제한적이다.
+
 ## RNA Vaccines
 
+RNA 백신은 SARS-Cov-2를 예방하기 위해 최초로 고안된 방식이다. 일단 접종되면, RNA가 타겟 단백질로 바뀌고(번역되고; translated), 면역 반응을 일으킨다. 이 백신은 100퍼센트 실험실에서 생산되기 때문에 대량 생산이 가능하다. 하지만 아예 새로운 방식이기에 이론적으로 대량 생산이 가능한지와 실제로 대량 생산이 가능한지의 괴리가 있을 수 있다. 또한 이 백신은 초저온에서 보관되어야 하기 때문에 보관이 까다롭다.
 
 
 # References
