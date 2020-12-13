@@ -17,7 +17,9 @@ use_math: true
 
 # Basic Virology of SARS-Cov-2
 
-먼저 용어 정리가 필요합니다. COVID19와 SARS-Cov-2는 엄연히 다른 대상을 지칭하는 말입니다. COVID19는 **Co**rona**vi**rus **d**isease 20**19**의 약자로, 코로나바이러스에 의해 감염되는 증상, 질환, 일련의 상황을 이야기합니다. 반면에 SARS-Cov-2는 **S**evere **A**cute **R**espiratory **S**yndrome caused by **Co**rona**v**irus **2**
+먼저 용어 정리가 필요합니다. COVID19와 SARS-Cov-2는 엄연히 다른 대상을 지칭하는 말입니다. COVID19는 **Co**rona**vi**rus **d**isease 20**19**의 약자로, 코로나바이러스에 의해 감염되는 증상, 질환, 일련의 상황을 이야기합니다. 반면에 SARS-Cov-2는 **S**evere **A**cute **R**espiratory **S**yndrome caused by **Co**rona**v**irus **2**의 약자로 우리 말로 번역하면 *코로나바이러스 2에 의해 유발되는 중증 급성 호흡기 증후군*정도가 됩니다. 이 SARS-Cov-2의 간단한 바이러스학적 특성을 알아봅시다.
+
+
 
 
 # References
