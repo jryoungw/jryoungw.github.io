@@ -24,4 +24,4 @@ use_math: true
 1. [Pfizer 백신 논문](https://www.nejm.org/doi/full/10.1056/NEJMoa2034577?query=RP)
 2. [Pfizer 백신 editorial](https://www.nejm.org/doi/pdf/10.1056/NEJMe2034717?articleTools=true)
 3. [COVID19 백신 요약](https://www.uptodate.com/contents/coronavirus-disease-2019-covid-19-vaccines-to-prevent-sars-cov-2-infection?search=covid&source=search_result&selectedTitle=2~150&usage_type=default&display_rank=2)
-4. [COVID19 정리]
+4. [COVID19 정리](https://www.uptodate.com/contents/coronavirus-disease-2019-covid-19-epidemiology-virology-and-prevention?search=covid&source=search_result&selectedTitle=7~150&usage_type=default&display_rank=7)
