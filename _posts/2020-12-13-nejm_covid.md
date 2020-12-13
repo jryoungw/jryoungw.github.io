@@ -17,6 +17,7 @@ use_math: true
 
 # Basic Virology of SARS-Cov-2
 
+먼저 용어 정리가 필요합니다. COVID19와 SARS-Cov-2는 엄연히 다른 대상을 지칭하는 말입니다. COVID19는 **Co**rona**vi**rus **d**isease 2019의 약자로, 코로나바이러스에 의해 감염되는 증상, 질환, 일련의 상황을 이야기합니다. 반면에 SARS-Cov-2는 
 
 
 # References
