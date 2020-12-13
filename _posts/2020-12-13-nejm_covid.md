@@ -27,7 +27,7 @@ use_math: true
 
 ## Antigenic Target
 
-
+이름이 어려울 뿐 antigenic target strategy가 바로 위에서 언급한 surface spiking protein을 무력화해서 치료/예방을 하자는 전략이다. 위에서 언급했으므로 구체적인 내용은 생략. 자세한 reference를 원하는 사람은 아래 **References**의 3번 항목을 참조하라.
 
 
 # References
