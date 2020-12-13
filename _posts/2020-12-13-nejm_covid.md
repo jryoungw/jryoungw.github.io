@@ -23,7 +23,7 @@ use_math: true
 
 # Vaccine Strategies for SARS-Cov-2
 
-따라서 최초의 백신 개발, 특히 SARS-Cov-1와 MERS(Middle East Respiratory Syndrome; 중동호흡기증후군)의 교훈으로부터 인류는 이 surface spiking protein을 target하여 백신 혹은 치료제를 만드려는데 집중하고 있었다. 
+따라서 최초의 백신 개발, 특히 SARS-Cov-1와 MERS(Middle East Respiratory Syndrome; 중동호흡기증후군)의 교훈으로부터 인류는 이 surface spiking protein을 target하여 백신 혹은 치료제를 만드려는데 집중하고 있었다. 만약 SARS-Cov-2가 세포에 애초에 붙지도 못한다면 세포 내로 들어올 수 있을리도 없고 감염이 일어나지도 않을 것이기 때문이다.
 
 
 
