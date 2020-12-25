@@ -53,7 +53,7 @@ RNA 백신은 SARS-Cov-2를 예방하기 위해 최초로 고안된 방식이다
 
 ## Methods
 
-아래 Reference에서 NEJM에 출간된 Pfizer사의 백신 논문을 확인할 수 있다. 일단 이 논문이 보고자 한 것은 크게 두 부분, **안전성(Safety)**과 **유효성(Efficacy)**으로 나뉜다. 이 둘을 평가하기 위해 연구원들은 30$\mu$g의 용량으로 
+아래 **Reference** 에서 NEJM에 출간된 Pfizer사의 백신 논문을 확인할 수 있다. 일단 이 논문이 보고자 한 것은 크게 두 부분, **안전성(Safety)** 과 **유효성(Efficacy)** 으로 나뉜다. 이 둘을 평가하기 위해 연구원들은 30$\mu$g의 용량으로 
 
 
 # References
