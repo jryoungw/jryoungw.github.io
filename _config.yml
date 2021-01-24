@@ -197,10 +197,8 @@ sitemap_exclude:  # Sitemap will exclude the following items.
     - robots.txt
     - redirects.json
     
-# Math equation
 markdown: kramdown
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
-
