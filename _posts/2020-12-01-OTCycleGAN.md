@@ -1,3 +1,13 @@
+---
+title: "OT CyeleGAN"
+tags:
+  - CycleGAN
+  - GAN
+  - Optimal Transport
+  - Style Transfer
+use_math: true
+---
+
 # Optimal Transport driven CycleGAN for Unsupervised Learning in Inverse Problems
 
 # What is Inverse Problem?
