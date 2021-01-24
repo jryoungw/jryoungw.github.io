@@ -160,7 +160,7 @@ for some regularization parameter $\lambda>0$, where $Q_{\Theta}(x)$ is a pre-tr
 
 $$c(x,y;\Theta,\mathcal{H}) = ||y-\mathcal{H}x||^q + \lambda||G_{\Theta}(y)-x||^p$$
 
-![Optimal%20Transport%20driven%20CycleGAN%20for%20Unsupervised%204fa4d16174954fab9ce38d7335c86838/Untitled.png](Optimal%20Transport%20driven%20CycleGAN%20for%20Unsupervised%204fa4d16174954fab9ce38d7335c86838/Untitled.png)
+![OTCycleGAN](/img/OTCycleGAN.png)
 
 - Specifically, our goal is to estimate the parameter $\Theta^{\ast}$ under the unsupervised learning scenario where both $x$ and $y$ are unpaired. Since we do not have exact match between $\mathcal{X}$ and $\mathcal{Y}$ due to the unsupervised training, rather than attempting to find $x$ given $y$, we estimate joint distribution, which can considers all combinations of $x\in\mathcal{X}$ and $y\in\mathcal{Y}$. In this scenario, $x$ and $y$ can be modeled as random samples from the probability distributions on $\mathcal{X}$ and $y\in\mathcal{Y}$, respectively, but their joint probability measure $\pi(x,y)$, which we attend, is unknown.
 - This is equivalent to the optimal transport problem which minimizes the average transport cost, where the average cost can be computed by
