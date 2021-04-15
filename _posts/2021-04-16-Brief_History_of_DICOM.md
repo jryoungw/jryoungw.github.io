@@ -14,7 +14,7 @@ DICOM은 Digital Imaging and Communications in Medicine의 약자로, 의료 영
 
 Reference: [Digital Imaging and Communications in Medicine (DICOM): A Practical Introduction and Survival Guide](https://www.springer.com/gp/book/9783642108495)
 
-약자
+# 약자
 
 DICOM : Digital Imaging and Communications in Medicine
 
