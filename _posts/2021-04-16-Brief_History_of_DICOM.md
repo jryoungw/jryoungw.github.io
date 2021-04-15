@@ -1,3 +1,13 @@
+---
+
+title: "DICOM 시리즈 - 1. Brief History of DICOM"
+tags:
+  - DICOM
+  - Digital Imaging and Communications in Medicine
+use_math: true
+
+---
+
 # Brief History of DICOM
 
 DICOM은 Digital Imaging and Communications in Medicine의 약자로, 의료 영상에 관련된 이미지 파일 형식을 의미한다. 본 절에서는, DICOM의 개략적인 역사를 살펴본다.
