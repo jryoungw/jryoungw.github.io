@@ -9,7 +9,7 @@ background: '/img/myself.png'
 <p> Education
 
 <br> - AI researcher, VUNO Incorp (2021.2~)
-<br> - Masters Student, University of Ulsan, Asan Medical Cencer, Seoul, South Korea (2019.02~2021.2)
+<br> - Masters degree, University of Ulsan, Asan Medical Cencer, Seoul, South Korea (2019.02~2021.2)
 <br> - Medical Doctor, Yeungnam University, Daegu, South Korea (2012.03~2019.02)
 
 
