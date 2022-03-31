@@ -9,6 +9,10 @@ layout: compress
 
 <!DOCTYPE html>
 
+{% if page.use_math %}
+  {% include mathjax_support.html %}
+{% endif %}
+
 {% if site.lang %}
   {% assign lang = site.lang | split: "_" | first %}
 {% else %}
