@@ -1,3 +1,10 @@
+---
+title: "Needleman Wunsch 알고리즘"
+tags:
+  - bioinformatics
+use_math: true
+---
+
 # Needleman-Wunsch Algorithm
 
 # Introduction
