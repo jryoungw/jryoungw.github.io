@@ -1,4 +1,14 @@
-# 액체 생검, 그리고 대장암
+---
+title: "액체 생검, 그리고 대장암"
+tags:
+  - medicine
+use_math: true
+tags:
+  - ctDNA
+  - circulating tumor DNA
+  - liquid biopsy
+  - medicine
+---
 
 [논문 링크](https://www.nejm.org/doi/full/10.1056/NEJMe2204625)
 
