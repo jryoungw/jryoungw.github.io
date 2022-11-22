@@ -7,8 +7,8 @@ background: '/img/myself.png'
 ![myself](../myself.png)
 
 <p> Education
-
-<br> - AI researcher, VUNO Incorp (2021.2~)
+<br> - Associate Research Engineer, CorelineSoft (2022.9~)
+<br> - AI researcher, VUNO Incorp (2021.2~2022.8)
 <br> - Masters Degree, University of Ulsan, Asan Medical Cencer, Seoul, South Korea (2019.02~2021.2)
 <br> - Medical Doctor, Yeungnam University, Daegu, South Korea (2012.03~2019.02)
 
