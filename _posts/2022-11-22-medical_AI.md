@@ -4,7 +4,7 @@
 
 인공지능 산업계의 큰 분야를 몇 가지로 나누라면 자율주행, 로보틱스, 그리고 꼭 빠질 수 없는 것이 의료인공지능입니다. 의료인공지능 산업계는 인공지능이 급부상한 이후 지난 10년간 폭발적으로 성장했습니다. 일례로 cbinsight라는 곳에서 조사한 [자료](https://www.cbinsights.com/research-healthcare-ai-trends-2020?utm_campaign=ai-healthcare-trends_2018-09&utm_content=google-prospecting-healthcare&campaignid=17130804447&adgroupid=137057131155&utm_term=healthcare%20ai&utm_source=google&utm_medium=cpc&hsa_tgt=kwd-305671546055&hsa_grp=137057131155&hsa_src=g&hsa_net=adwords&hsa_mt=p&hsa_ver=3&hsa_ad=595963279194&hsa_acc=5728918340&hsa_kw=healthcare%20ai&hsa_cam=17130804447&gclid=CjwKCAiA68ebBhB-EiwALVC-NhAguXT08J5pViCgI46MO4Q0jQjW7suPGMc1t0bA3ZYIUOb5uHvi8xoCaR4QAvD_BwE)에 따르면
 
-![medical_ai.png](plosone.png)
+![medical_ai.png](medai/plosone.png)
 
 의료인공지능에 대한 투자는 크게 성장하고 있는 추세이고 기술들도 포화에 가까울 정도로 수많은 연구들이 수많은 주제에 대해 진행되고 있습니다. 이렇게 부상하고 있는 의료인공지능은 얼마나 발전했고, 무엇이 허들이며 실제 의료를 바꾸기 위해 해야 하는 고민들은 무엇일까요?
 
@@ -76,7 +76,7 @@ F1 Score가 뭔지는 모르겠지만, Radiologist(영상의학과 전문의)보
 
 연구자들은 비둘기-러닝을 위해서 비둘기들에게 맞추면 모이를 주는 방식으로 학습을 진행했습니다.
 
-![학습에 사용된 샘플들](/samples.png)
+![학습에 사용된 샘플들](medai/samples.png)
 
 학습에 사용된 샘플들
 
