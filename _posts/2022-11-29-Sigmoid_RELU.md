@@ -1,3 +1,15 @@
+---
+title: "Activation Functions at Different Perspective"
+tags:
+  - Activation Function
+  - Deep Learning
+  - ReLU
+  - Sigmoid
+  - Neural Network
+use_math: true
+
+---
+
 # Activation Functions at Different Perspective
 
 딥러닝 공부를 하다 보면 필연적으로 활성화 함수(activation function)을 만나게 된다. 본 글에서는 이 activation function들간의 관계를 새로운 시각에서 살펴보도록 한다.
