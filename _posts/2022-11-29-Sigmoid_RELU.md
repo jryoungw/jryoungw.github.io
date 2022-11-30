@@ -10,6 +10,8 @@ use_math: true
 
 ---
 
+수식이 깨질 경우 이 [링크]([https://arxiv.org/abs/1805.07091](https://jryoungwdl.notion.site/Activation-Functions-at-Different-Perspective-4980ac3486c0477787bb2239b1e01ff5))를 통해 읽으시면 됩니다.
+
 # Activation Functions at Different Perspective
 
 딥러닝 공부를 하다 보면 필연적으로 활성화 함수(activation function)을 만나게 된다. 본 글에서는 이 activation function들간의 관계를 새로운 시각에서 살펴보도록 한다.
