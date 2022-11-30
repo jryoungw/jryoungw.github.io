@@ -10,7 +10,7 @@ use_math: true
 
 ---
 
-수식이 깨질 경우 이 [링크]([https://arxiv.org/abs/1805.07091](https://jryoungwdl.notion.site/Activation-Functions-at-Different-Perspective-4980ac3486c0477787bb2239b1e01ff5))를 통해 읽으시면 됩니다.
+수식이 깨질 경우 이 [링크](https://jryoungwdl.notion.site/Activation-Functions-at-Different-Perspective-4980ac3486c0477787bb2239b1e01ff5)를 통해 읽으시면 됩니다.
 
 # Activation Functions at Different Perspective
 
