@@ -21,7 +21,7 @@ use_math: true
 
 $\Omega$를 집합이라고 하자. 그러면 $\Omega$위에 정의된 $\sigma$-field $\mathcal{F}$는 다음 세 조건을 만족하는 $\Omega$의 부분집합들의 모임이다. 즉, $\sigma$-field $\mathcal{F}$는 $\mathcal{F}\subseteq2^\Omega$로, 다음 세 조건을 만족한다.
 
-1. $\empty,\Omega\in\mathcal{F}$.
+1. $\emptyset,\Omega\in\mathcal{F}$.
 2. $A\in\mathcal{F}\Rightarrow A^c:=\Omega-A\in\mathcal{F}$.
 3. $A_1,A_2,\cdots\in\mathcal{F}\Rightarrow\big(\bigcup_{n=1}^{\infty} A_n\big)\in\mathcal{F}$.
 
@@ -31,7 +31,7 @@ $\sigma$-field는 무엇이고 왜 필요한 것일까?
 
 Measurable space (가측공간) $(\Omega,\mathcal{F})$가 있을 때 이 가측공간 위에 정해진 probability measure (확률측도) $\mathbb{P}$는 다음 조건을 만족하는 함수 $\mathbb{P}:\mathcal{F}\to\mathbb{R}$이다:
 
-1. $\mathbb{P}(\empty)=0$
+1. $\mathbb{P}(\emptyset)=0$
 2. $\mathbb{P}(\Omega)=1$
 3. $A_1,A_2,\cdots$가 disjoint set들이라면, 
     
@@ -67,7 +67,7 @@ Measurable space (가측공간) $(\Omega,\mathcal{F})$가 있을 때 이 가측�
 
 $\Omega$를 집합이라고 하자. 그러면 $\Omega$위에 정의된 $\sigma$-field $\mathcal{F}$는 다음 세 조건을 만족하는 $\Omega$의 부분집합들의 모임이다. 즉, $\sigma$-field $\mathcal{F}$는 $\mathcal{F}\subseteq2^\Omega$로, 다음 세 조건을 만족한다.
 
-1. $\empty,\Omega\in\mathcal{F}$.
+1. $\emptyset,\Omega\in\mathcal{F}$.
 2. $A\in\mathcal{F}\Rightarrow A^c:=\Omega-A\in\mathcal{F}$.
 3. $A_1,A_2,\cdots\in\mathcal{F}\Rightarrow\big(\bigcup_{n=1}^{\infty} A_n\big)\in\mathcal{F}$.
 
@@ -87,7 +87,7 @@ $\Omega$를 집합이라고 하자. 그러면 $\Omega$위에 정의된 $\sigma$-
 
 $\Omega$를 집합이라고 하자. 그러면 $\Omega$위에 정의된 $\sigma$-field $\mathcal{F}$는 다음 세 조건을 만족하는 $\Omega$의 부분집합들의 모임이다. 즉, $\sigma$-field $\mathcal{F}$는 $\mathcal{F}\subseteq2^\Omega$로, 다음 세 조건을 만족한다.
 
-1. $\empty,\Omega\in\mathcal{F}$.
+1. $\emptyset,\Omega\in\mathcal{F}$.
 2. $A\in\mathcal{F}\Rightarrow A^c:=\Omega-A\in\mathcal{F}$.
 3. $A_1,A_2,\cdots\in\mathcal{F}\Rightarrow\big(\bigcup_{n=1}^{\infty} A_n\big)\in\mathcal{F}$.
 
@@ -107,7 +107,7 @@ $\sigma$-field는 크기 혹은 사건이라고 이해할 수 있었다. 그러�
 
 $\Omega$를 집합이라고 하자. $\Omega$ 위에 정의되는 위상 $\mathcal{T}_{\Omega}$는 다음 세 조건을 만족하는 $\Omega$의 부분집합들의 모임이다.
 
-1. $\empty,\Omega\in\mathcal{T}_{\Omega}$.
+1. $\emptyset,\Omega\in\mathcal{T}_{\Omega}$.
 2. Index set $I$에 대해서, $U_i\in\mathcal{T}_{\Omega}$ for all $i\in I$라면 $\bigcup_{i\in I}U_i\in\mathcal{T}_{\Omega}$.
 3. $U_1,\cdots,U_n\in\mathcal{T}_{\Omega}$라면 $\bigcap_{i=1}^nU_i\in\mathcal{T}_{\Omega}$.
 
