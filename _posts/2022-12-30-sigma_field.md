@@ -1,3 +1,18 @@
+---
+title: "Why sigma-field"
+tags:
+  - sigma field
+  - sigma algebra
+  - Real analysis
+  - Analysis
+  - Mathematics
+use_math: true
+
+---
+
+수식이 깨질 경우 이 [링크](https://jryoungwmath.notion.site/Why-sigma-field-66834722220f4f6f8f49206f3e29545f)를 통해 읽으시면 됩니다.
+
+
 # Why sigma-field?
 
 해석학을 공부하게 되면 $\sigma$-field라는 것을 만나게 된다. $\sigma$-field의 정의는 다음과 같다.
