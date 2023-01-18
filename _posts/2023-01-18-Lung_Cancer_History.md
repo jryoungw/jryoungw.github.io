@@ -1,4 +1,18 @@
-# 폐암의 역사와 폐암 인공지능에 관하여
+---
+title: "폐암의 역사와 폐암 인공지능에 관하여"
+tags:
+  - medicine
+tags:
+  - AI
+  - Artificial Intelligence
+  - Medical Artificial Intelligence
+  - Medical AI
+  - Medicine
+  - Computer-Aided Diagnosis
+  - CAD
+  - Lung Cancer
+  - Pulmonary Nodule
+---
 
 # 폐암의 유병률 변화와 인식에 관한 역사
 
