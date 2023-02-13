@@ -1,4 +1,3 @@
-
 ---
 title: "의료인공지능의 윤리학, 그리고 정밀의료"
 tags:
@@ -8,7 +7,6 @@ tags:
   - Medical AI Ethics
   - Medical Ethics
   - Precision Medicine
-
 ---
 
 
