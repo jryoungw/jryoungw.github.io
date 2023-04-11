@@ -5,6 +5,8 @@ tags:
 use_math: true
 ---
 
+가 깨지는 경우 ![여기](https://jryoungwmed.notion.site/Needleman-Wunsch-Algorithm-08a2b92beb8046cf8036e79d42969872)를 통해 읽으면 됩니다.
+
 # Needleman-Wunsch Algorithm
 
 # Introduction
