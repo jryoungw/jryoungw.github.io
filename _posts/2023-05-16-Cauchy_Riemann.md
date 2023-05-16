@@ -1,3 +1,14 @@
+---
+title: "Cauchy-Riemann Equation의 또다른 유도법"
+categories: [Mathematics, Complex Analysis, Cauchy-Riemann, Cauchy-Riemann Equation]
+tags:
+  - Mathematics
+  - Cauchy-Riemann equation
+  - Cauchy-Riemann
+  - Complex Analysis
+use_math: true
+---
+
 # Cauchy-Riemann Equation의 또다른 유도법
 
 Cauchy-Riemann 방정식을 학부 복소해석 시간에 배울때는 $x$축과 $y$축으로 다가오는 두 극한을 잡아서 유도하고는 한다. 하지만 미적분과 약간의 선형대수만을 사용해서 다르게 같은 결론을 얻을 수도 있는데, 이 글에서는 그 유도과정을 살펴보고자 한다.
