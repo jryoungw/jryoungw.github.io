@@ -40,7 +40,13 @@ social:
 google_site_verification: google_meta_tag_verification # change to your verification string
 
 #--------------------------
-
+# Analytics
+analytics:
+  provider               : "google-gtag" 
+                          # false (default), "google", "google-universal", "google-gtag", "custom"
+  google:
+    tracking_id          : "G-FEFZ89LNCE"
+    anonymize_ip         : false
 
 # Only if your site type is GitHub Project sites and doesn't have a custom domain,
 # change below value to '/projectname'.
