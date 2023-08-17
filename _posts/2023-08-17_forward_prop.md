@@ -8,6 +8,8 @@ tags:
 use_math: true
 ---
 
+# Notice
+
 수식이 깨지는 경우 [링크](https://jryoungwdl.notion.site/Learning-Representations-by-Forward-Propagating-Errors-317bb1ba92bd42a4ad4bf066fb6855ac?pvs=4)를 통해 보시면 됩니다.
 
 # 들어가며
