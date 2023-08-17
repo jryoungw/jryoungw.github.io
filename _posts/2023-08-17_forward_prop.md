@@ -7,6 +7,9 @@ tags:
   - dual number
 use_math: true
 ---
+
+수식이 깨지는 경우 [링크](https://jryoungwdl.notion.site/Learning-Representations-by-Forward-Propagating-Errors-317bb1ba92bd42a4ad4bf066fb6855ac?pvs=4)를 통해 보시면 됩니다.
+
 # 들어가며
 
 Backpropagation은 [1986년 Hinton과 그 동료들에 의해 고안](https://www.nature.com/articles/323533a0)된 알고리즘이다. 하지만 Hinton은 [인터뷰를 포함](https://www.nature.com/articles/323533a0)하여 [논문까지 써가며](https://arxiv.org/abs/2212.13345) backpropagation을 갈아엎아야 한다는 주장을 하였다. 심지어는 Nature Reviews Neuroscience에 [Backpropagation and the Brain](https://www.nature.com/articles/s41583-020-0277-3)이라는 리뷰 페이퍼를 쓰기까지 하였는데, 이러한 맥락에서 backpropgation보다 더 빠르고 효율적이고 경제적인 learning rule이 없을까?라는 질문에 대한 대답으로 dual number system을 통한 forward-time differentiation을 생각해볼 수 있다. 본 글은 이 forward-propgation에 대한 내용을 다룬다.
