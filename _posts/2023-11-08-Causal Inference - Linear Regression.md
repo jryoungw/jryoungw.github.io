@@ -1,5 +1,3 @@
-# Causal Inference - Linear Regression
-
 글이 깨지는 경우 [링크](https://www.notion.so/Causal-Inference-Linear-Regression-87b0aa06766944eeb683232b9e1225d1?pvs=21)를 통해 읽으세요
 
 # Introduction
