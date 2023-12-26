@@ -115,27 +115,27 @@ $$
 가 되고, 따라서 우리는 다음과 같은 objective function을 생각해 볼 수 있다:
 
 $$
-\begin{equation}\mathcal{L}_{\theta}=\frac{1}{2}\mathbb{E}_{x\sim p_{data}(x)}\bigg[\big\|s_{\theta}(x)-\nabla_x\log p_{data}(x)\big\|^2\bigg]\end{equation}
+\begin{equation}\mathcal{L}_{\theta}=\frac{1}{2}\mathbb{E}_{x\sim p_{data}(x)}\bigg[\bigg\|s_{\theta}(x)-\nabla_x\log p_{data}(x)\bigg\|^2\bigg]\end{equation}
 $$
 
 하지만 이는 실제로 계산하기가 불가능하다. 왜 그럴까? 우리가 알고자 하는 것은 data의 분포이다. 즉, 우리가 알고자 하는 것이 $p_{data}(x)$이다. 이는 당연히 학습 당시에는 모르고 있고, 이것의 gradient또한 우리는 알 수 없다. 그런데 loss term에 들어가 있으므로 계산이 절대로 불가능할 것만 같아 보인다. 하지만 우리는 답을 찾을 것이다. 다음과 같은 방식으로 계산을 우회해보자. (단, $s_{\theta}(x)$와 $\nabla_x\log p_{data}(x)$가 vector임에 주의하라. 정 계산이 힘들면 1차원으로 생각해도 이해하는데 크게 무리는 없다.)
 
 $$
-\begin{align}\mathcal{L}_{\theta}&=\frac{1}{2}\mathbb{E}_{x\sim p_{data}(x)}\bigg[\big\|s_{\theta}(x)-\nabla_x\log p_{data}(x)\big\|^2\bigg]\nonumber\\
-&=\frac{1}{2}\mathbb{E}_{x\sim p_{data}(x)}\bigg[\big\lang s_{\theta}(x)-\nabla_x\log p_{data}(x),s_{\theta}(x)-\nabla_x\log p_{data}(x)\big\rang\bigg]\nonumber\\
-&=\frac{1}{2}\mathbb{E}_{x\sim p_{data}(x)}\bigg[\big\|s_{\theta}(x)\|^2-2\big\lang s_{\theta}(x),\nabla_x\log p_{data}(x)\bigg\rang+\big\|\nabla_x\log p_{data}(x)\big\|^2\bigg]\end{align}
+\begin{align}\mathcal{L}_{\theta}&=\frac{1}{2}\mathbb{E}_{x\sim p_{data}(x)}\bigg[\bigg\|s_{\theta}(x)-\nabla_x\log p_{data}(x)\bigg\|^2\bigg]\nonumber\\
+&=\frac{1}{2}\mathbb{E}_{x\sim p_{data}(x)}\bigg[\bigg\lang s_{\theta}(x)-\nabla_x\log p_{data}(x),s_{\theta}(x)-\nabla_x\log p_{data}(x)\bigg\rang\bigg]\nonumber\\
+&=\frac{1}{2}\mathbb{E}_{x\sim p_{data}(x)}\bigg[\bigg\|s_{\theta}(x)\|^2-2\bigg\lang s_{\theta}(x),\nabla_x\log p_{data}(x)\bigg\rang+\bigg\|\nabla_x\log p_{data}(x)\bigg\|^2\bigg]\end{align}
 $$
 
 그런데 $p_{data}(x)$는 알지는 못하지만 이미 정해져 있는 값이므로 최적화 관점에서는 필요 없는 항이다. 따라서 $(2)$는 다음처럼 바꿀 수 있다:
 
 $$
-\begin{align}\mathcal{L}_{\theta}=\frac{1}{2}\mathbb{E}_{x\sim p_{data}(x)}\bigg[\big\|s_{\theta}(x)\|^2-2\big\lang s_{\theta}(x),\nabla_x\log p_{data}(x)\big\rang\bigg]\end{align}
+\begin{align}\mathcal{L}_{\theta}=\frac{1}{2}\mathbb{E}_{x\sim p_{data}(x)}\bigg[\bigg\|s_{\theta}(x)\|^2-2\bigg\lang s_{\theta}(x),\nabla_x\log p_{data}(x)\bigg\rang\bigg]\end{align}
 $$
 
 위 식에서 
 
 $$
-\begin{equation}\frac{1}{2}\mathbb{E}\bigg[-2\big\lang s_{\theta}(x),\nabla_x\log p_{data}(x)\big\rang\bigg]\end{equation}
+\begin{equation}\frac{1}{2}\mathbb{E}\bigg[-2\bigg\lang s_{\theta}(x),\nabla_x\log p_{data}(x)\bigg\rang\bigg]\end{equation}
 $$
 
 항을 살펴보자. 위 식을 성분별로 쓰면
@@ -170,7 +170,7 @@ $$
 위 식 $(5)$를 다시 써보자.
 
 $$
-\begin{align}\frac{1}{2}\mathbb{E}\bigg[-2\big\lang s_{\theta}(x),\nabla_x\log p_{data}(x)\big\rang\bigg]
+\begin{align}\frac{1}{2}\mathbb{E}\bigg[-2\bigg\lang s_{\theta}(x),\nabla_x\log p_{data}(x)\bigg\rang\bigg]
 &=-\int p_{data}(x)\bigg\lang s_{\theta}(x),\frac{\partial \log p_{data}(x)}{\partial x}\bigg\rang dx\nonumber\\
 &=-\int p_{data}(x)\bigg\lang s_{\theta}(x),\frac{\frac{\partial p_{data}(x)}{\partial x}}{p_{data}(x)}\bigg\rang dx\nonumber\\
 &=-\int\bigg\langle s_{\theta}(x),\frac{\partial p_{data}(x)}{\partial x}\bigg\rangle dx\nonumber\\
@@ -185,7 +185,7 @@ $$
 이 식 $(10)$을 다시 식 $(4)$에 넣으면
 
 $$
-\begin{align}\mathcal{L}_{\theta}&=\frac{1}{2}\mathbb{E}_{x\sim p_{data}(x)}\bigg[\big\|s_{\theta}(x)\|^2-2\big\lang s_{\theta}(x),\nabla_x\log p_{data}(x)\big\rang\bigg]\nonumber\\
+\begin{align}\mathcal{L}_{\theta}&=\frac{1}{2}\mathbb{E}_{x\sim p_{data}(x)}\bigg[\bigg\|s_{\theta}(x)\|^2-2\bigg\lang s_{\theta}(x),\nabla_x\log p_{data}(x)\bigg\rang\bigg]\nonumber\\
 &=\mathbb{E}_{x\sim p_{data}(x)}\bigg[\frac{1}{2}\|s_{\theta}(x)\|^2\bigg] - \mathbb{E}_{p_{data}(x,\widetilde{x})}\bigg[\bigg\langle s_{\theta}(x),\frac{\partial\log p_{data}(x|\widetilde{x})}{\partial x}\bigg\rangle\bigg]\end{align}
 $$
 
