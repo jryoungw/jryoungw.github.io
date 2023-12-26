@@ -152,7 +152,7 @@ $$
 &=-\sum_{i=1}^N\int s^i_{\theta}(x)\frac{\partial p_{data}(x)}{\partial x_i}dx\\
 &=-\sum_{i=1}^N\bigg(\bigg[s^i_{\theta}(x)p_{data}(x)\bigg] - \int\frac{\partial s^i_{\theta}(x)}{\partial x_i}p_{data}(x)dx\bigg)\\
 &=\int\bigg(\frac{\partial s^1_{\theta}(x)}{\partial x_1}+\frac{\partial s^2_{\theta}(x)}{\partial x_2}+\cdots+\frac{\partial s^N_{\theta}(x)}{\partial x_N}\bigg)p_{data}(x)dx\nonumber\\
-&=\int\text{tr}\big(\nabla_xs_{\theta}(x)\big)p_{data}(x)dx\nonumber\\
+&=\int\text{tr}\bigg(\nabla_xs_{\theta}(x)\bigg)p_{data}(x)dx\nonumber\\
 &=\mathbb{E}_{x\sim p_{data}(x)}\bigg[\text{tr}(\nabla_xs_{\theta}(x))\bigg]\nonumber
 \end{align}
 $$
@@ -231,7 +231,7 @@ $$
 가 된다. 이제 각 $i$번째 변수에 대해서 부분적분을 수행해 보면, $(16)$ 식은
 
 $$
-\begin{align}-\mathbb{E}_{p_v}\bigg[\sum_{i=1}^N\int(v^Ts_{\theta}(x))v_i\frac{\partial p_{data}(x)}{\partial x_i}dx\bigg]&=-\mathbb{E}_{p_v}\bigg[\sum_{i=1}^N\bigg(\bigg[(v^Ts_{\theta}(x))v_ip_{data}(x)\bigg]^{\infty}_{-\infty}-\int\big(v^T\frac{\partial s_{\theta}(x)}{\partial x_i}\big)v_ip_{data}(x)dx\bigg)\nonumber\\
+\begin{align}-\mathbb{E}_{p_v}\bigg[\sum_{i=1}^N\int(v^Ts_{\theta}(x))v_i\frac{\partial p_{data}(x)}{\partial x_i}dx\bigg]&=-\mathbb{E}_{p_v}\bigg[\sum_{i=1}^N\bigg(\bigg[(v^Ts_{\theta}(x))v_ip_{data}(x)\bigg]^{\infty}_{-\infty}-\int\bigg(v^T\frac{\partial s_{\theta}(x)}{\partial x_i}\bigg)v_ip_{data}(x)dx\bigg)\nonumber\\
 &=\mathbb{E}_{p_v}\bigg[\sum_{i=1}^N\int(v^T\frac{\partial s_{\theta}(x)}{\partial x_i})v_ip_{data}(x)dx\bigg]\nonumber\\
 &=\mathbb{E}_{p_v}\bigg[\sum_{i=1}^N\int(v^T\nabla_xs_{\theta}(x))v_ip_{data}(x)dx\bigg]\nonumber\\
 &=\mathbb{E}_{p_v}\int p_{data}(x)v^T\nabla_xs_{\theta}(x)vdx\nonumber\\
