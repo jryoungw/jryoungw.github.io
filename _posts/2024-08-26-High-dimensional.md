@@ -8,7 +8,7 @@ tags:
 use_math: true
 ---
 
-그림이나 수식이 깨질 경우 (링크)[https://jryoungw.notion.site/Geometry-of-High-Dimensional-Euclidean-Space-754cf69884854d849a6e28d4c2450daa?pvs=4]에서 확인하세요.
+그림이나 수식이 깨질 경우 [링크](https://jryoungw.notion.site/Geometry-of-High-Dimensional-Euclidean-Space-754cf69884854d849a6e28d4c2450daa?pvs=4)에서 확인하세요.
 
 # Introduction
 
