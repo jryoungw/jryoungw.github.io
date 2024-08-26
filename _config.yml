@@ -88,8 +88,12 @@ toc: true
 paginate: 10
 
 markdown: kramdown
-kramdown:
-    math_engine:mathjax
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+# kramdown:
+#     math_engine:mathjax
 
 highlighter: rouge
 
