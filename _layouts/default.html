@@ -26,7 +26,9 @@ layout: compress
 {% endcapture %}
 
 <html lang="{{ lang }}" {{ prefer_mode }} >
-
+  {% if page.use_math %}
+    {% include mathjax_support.html %}
+  {% endif %}
   {% include head.html %}
 
   <body data-spy="scroll" data-target="#toc">
