@@ -8,13 +8,13 @@
 
 Lung-RADS는 1.0 버전과 1.1 버전, 그리고 2022 버전 세 가지가 있고 2022 버전이 가장 최신 버전입니다. Lung-RADS 2022 버전은 다음과 같습니다.
 
-![image.png](image.png)
+![image.png](/img/omakase12/1.png)
 
 기존의 버전 1.1과의 가장 큰 차이점은 atypical cyst (pulmonary cyst; [유튜브 영상](https://www.youtube.com/watch?v=8WUVu5lAilY))가 추가되었다는 점인데요, 만약 2022년 이전의 가이드라인이 완벽했다면 왜 가이드라인 업데이트가 된 것일지 생각해보면 가이드라인은 완벽할 수 없다는 것이 명백합니다.
 
 이외에도 폐암을 검출해내려는 가이드라인들은 [Fleischner guideline](https://pubs.rsna.org/doi/10.1148/radiol.2017161659), [ACCP guideline](https://journal.chestnet.org/article/S0012-3692(13)60291-3/fulltext), [NCCN guideline](https://jnccn.org/view/journals/jnccn/20/7/article-p754.xml), [BTS guideline](https://www.brit-thoracic.org.uk/quality-improvement/guidelines/pulmonary-nodules/)과 같은 것들이 있고, 이들은 모두 기준값이 다릅니다. 우연히 발견된 lung nodule의 경우에는 Fleischner guideline과 ACCP guideline이 권고되고, 건강검진 중에 발견된 lung nodule은 앞서 말했듯 Lung-RADS와 I-ELCAP guideline을 따르며 두 경우 모두에 사용할 수 있는 guideline들은 NCCN과 BTS guideline입니다. 이 가이드라인들에서 가장 작은 결절, 즉 임상적으로 의미있는 최소의 결절을 정의하는 방식은 모두 다른데 예를 들어 고형(solid) 결절의 경우
 
-![image.png](image%201.png)
+![image.png](/img/omakase12/2.png)
 
 와 같이 우연히 발견된(incidental) 폐 결절은 4mm 기준으로 임상적으로 의미가 있다고 보며,
 
@@ -24,7 +24,7 @@ Lung-RADS는 1.0 버전과 1.1 버전, 그리고 2022 버전 세 가지가 있�
 
 별로 차이가 나지 않는다고 생각하신다면 간유리 결절(Ground-Glass Nodule)을 보시면 더 느낌이 잘 오실 것 같습니다.
 
-![image.png](image%202.png)
+![image.png](/img/omakase12/3.png)
 
 Fleischner guideline에서는 6mm를 기준점으로 삼고 있지만, Lung-RADS에서는 30mm를 기준으로 삼고 있고, NCCN guideline에서는 20mm를 기준으로 삼는 등 매우 변이가 큽니다.
 
@@ -32,7 +32,7 @@ Fleischner guideline에서는 6mm를 기준점으로 삼고 있지만, Lung-RADS
 
 간질성 폐질환(interstitial lung disease; ILD)는 간단하게 말해서 폐가 딱딱해지는 질환입니다. 늘어나고 줄어듬을 반복해서 호흡을 해야 하는 폐가 딱딱해지면 호흡이 힘들어지고 종래에는 사망에까지 이르게 되는 무서운 병인데요, 이 간질성 폐질환은 질환이 진행하지 않는 stable한 군이 있고, 질환이 진행하는 progressive한 군이 있습니다. Progressive interstitial lung disease를 의학용어로는 progressive pulmonary fibrosis (PPF)라고 부르지요. PPF의 정의를 공식적으로 한 [가이드라인](https://www.atsjournals.org/doi/10.1164/rccm.202202-0399ST)에 따르면 PPF는
 
-![image.png](image%203.png)
+![image.png](/img/omakase12/4.png)
 
 특발성 폐섬유화증(idiopathic pulmonary fibrosis)이 아닌 ILD 환자들 중에서,
 
@@ -49,7 +49,7 @@ Fleischner guideline에서는 6mm를 기준점으로 삼고 있지만, Lung-RADS
 
 요약하지면 가이드라인 위원회가 FVC와 DLCO만을 임상적으로 의미있고 안정된 판단 기준으로 보았다는 말입니다. 전문가들의 의견이니 어느 정도 신빙성은 있겠지만 의학의 근거 피라미드를 생각해보면 전문가 의견(expert opinion; 아래에서 두 번째)을 정말 믿을 수 있어? 라는 의문을 던질 수밖에 없습니다.
 
-![evidence pyramid.png](evidence_pyramid.png)
+![evidence pyramid.png](/img/omakase12/5.png)
 
 또한 FVC가 5%로 정의된 이유도 만족스럽지는 않습니다. 가이드라인을 한 번 더 참조하면, PPF에서 FVC 감소를 5%로 정의한 이유는 [INBUILD trial](https://www.nejm.org/doi/full/10.1056/NEJMoa1908681) (Nintedanib의 유효성과 안정성을 본 임상시험) 이나 [RELIEF trial](https://www.thelancet.com/journals/lanres/article/PIIS2213-2600(20)30554-3/abstract) (Pirfenidone의 유효성과 안정성을 본 연구)에서 FVC decline을 5%로 설정했기 때문입니다. PPF에서 효과가 있는 약이 nintedanib뿐인데, 이 약의 임상시험 end-point가 5%였으니 어찌 보면 가이드라인에서도 5%로 진단 기준을 설정한 것이 이해가 됩니다. 하지만 INBUILD trial에서 왜 5%로 end-point를 설정했냐는 질문에는 역시나 대답할 길이 없습니다. 전문가들이 그 정도면 충분하다고 생각했다는 이유밖에는요.
 
