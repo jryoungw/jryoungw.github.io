@@ -4,7 +4,7 @@ title: About Me
 description: This is what I do.
 background: '/img/myself.png'
 ---
-![myself](../myself.png)
+![myself](/img/myself.png)
 
 <p> Education
 <br> - Associate Research Engineer, CorelineSoft (2022.9~)
