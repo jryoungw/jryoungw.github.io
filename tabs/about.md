@@ -7,7 +7,8 @@ background: '/img/myself.png'
 ![myself](/img/myself.png)
 
 <p> Education
-<br> - Associate Research Engineer, CorelineSoft (2022.9~)
+<br> - Clinical Research Lead, Coreline Soft (2024.5~)
+<br> - Associate Research Engineer, Coreline Soft (2022.9~2024.4)
 <br> - AI researcher, VUNO Incorp (2021.2~2022.8)
 <br> - Masters Degree, University of Ulsan, Asan Medical Cencer, Seoul, South Korea (2019.02~2021.2)
 <br> - Medical Doctor, Yeungnam University, Daegu, South Korea (2012.03~2019.02)
