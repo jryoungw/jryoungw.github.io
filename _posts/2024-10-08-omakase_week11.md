@@ -1,5 +1,5 @@
 ---
-title: "의료인공지능 오마카세 Week 12 - 객관적이지만, 가장 주관적인"
+title: "의료인공지능 오마카세 Week 11 - 객관적이지만, 가장 주관적인"
 categories: [Medicine]
 tags:
   - Lung Cancer
