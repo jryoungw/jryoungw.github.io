@@ -39,7 +39,7 @@ CPT 코드가 medical AI 장비들에 더 적용되고 있긴 하지만 이 코�
 
 # Results
 
-![스크린샷 2023-11-19 오후 1.47.41.png]((Paper%20Review)%20Characterizing%20the%20Clinical%20Adoptio%20e880c8059c0b4818aca37d836ff2e069/%25E1%2584%2589%25E1%2585%25B3%25E1%2584%258F%25E1%2585%25B3%25E1%2584%2585%25E1%2585%25B5%25E1%2586%25AB%25E1%2584%2589%25E1%2585%25A3%25E1%2586%25BA_2023-11-19_%25E1%2584%258B%25E1%2585%25A9%25E1%2584%2592%25E1%2585%25AE_1.47.41.png)
+![스크린샷 2023-11-19 오후 1.47.41.png](/img/reimbursement/1.png)
 
 위 표는 2023.6.1. 기준의 청구 건수이다.
 
@@ -52,11 +52,11 @@ CPT 코드가 medical AI 장비들에 더 적용되고 있긴 하지만 이 코�
 - HeartFlow : 총 67,306건 → 36.88건/일 (검사당 $1450.5 → 일 평균 $53,494.44; [reference](https://www.heartflow.com/newsroom/heartflow-announces-decision-by-centers-for-medicare-medicaid-services-to-assign-a-new-technology-payment-classification-to-heartflow-ffrct-analysis/))
 - LumineticsCore : 총 15,097건 → 16.54건/일 (검사당 $45.36 → 일 평균 $750.25; [reference](https://www.reviewofophthalmology.com/article/medicare-whats-new-for-2022))
     
-    ![IMG_1225.jpeg]((Paper%20Review)%20Characterizing%20the%20Clinical%20Adoptio%20e880c8059c0b4818aca37d836ff2e069/IMG_1225.jpeg)
+    ![IMG_1225.jpeg](/img/reimbursement/1.1.jpeg)
     
 - Cleearly : 총 4,459건 → 4.88건/일 (검사당 약 $900-$1000 → 일 평균 $4,392-$4,880)
     
-    ![IMG_1226.jpeg]((Paper%20Review)%20Characterizing%20the%20Clinical%20Adoptio%20e880c8059c0b4818aca37d836ff2e069/IMG_1226.jpeg)
+    ![IMG_1226.jpeg](/img/reimbursement/2.jpeg)
     
 - Perspectum LiverMultiScan : 총 2,428건 → 2.66건/일
 - Perspectum CoverScan : 총 591건 → 1.08건/일
@@ -70,15 +70,15 @@ CPT 코드가 medical AI 장비들에 더 적용되고 있긴 하지만 이 코�
 
 ## 지역에 따른 차이
 
-![스크린샷 2023-11-19 오후 2.31.32.png]((Paper%20Review)%20Characterizing%20the%20Clinical%20Adoptio%20e880c8059c0b4818aca37d836ff2e069/%25E1%2584%2589%25E1%2585%25B3%25E1%2584%258F%25E1%2585%25B3%25E1%2584%2585%25E1%2585%25B5%25E1%2586%25AB%25E1%2584%2589%25E1%2585%25A3%25E1%2586%25BA_2023-11-19_%25E1%2584%258B%25E1%2585%25A9%25E1%2584%2592%25E1%2585%25AE_2.31.32.png)
+![스크린샷 2023-11-19 오후 2.31.32.png](/img/reimbursement/3.png)
 
 ## AI 제품이 CPT 코드를 받는 시간에 따른 증가율
 
-![스크린샷 2023-11-19 오후 2.31.47.png]((Paper%20Review)%20Characterizing%20the%20Clinical%20Adoptio%20e880c8059c0b4818aca37d836ff2e069/%25E1%2584%2589%25E1%2585%25B3%25E1%2584%258F%25E1%2585%25B3%25E1%2584%2585%25E1%2585%25B5%25E1%2586%25AB%25E1%2584%2589%25E1%2585%25A3%25E1%2586%25BA_2023-11-19_%25E1%2584%258B%25E1%2585%25A9%25E1%2584%2592%25E1%2585%25AE_2.31.47.png)
+![스크린샷 2023-11-19 오후 2.31.47.png](/img/reimbursement/4.png)
 
 ## AI제품을 더 쓰는 요인들
 
-![스크린샷 2023-11-19 오후 2.32.03.png]((Paper%20Review)%20Characterizing%20the%20Clinical%20Adoptio%20e880c8059c0b4818aca37d836ff2e069/%25E1%2584%2589%25E1%2585%25B3%25E1%2584%258F%25E1%2585%25B3%25E1%2584%2585%25E1%2585%25B5%25E1%2586%25AB%25E1%2584%2589%25E1%2585%25A3%25E1%2586%25BA_2023-11-19_%25E1%2584%258B%25E1%2585%25A9%25E1%2584%2592%25E1%2585%25AE_2.32.03.png)
+![스크린샷 2023-11-19 오후 2.32.03.png](/img/reimbursement/5.png)
 
 # Discussion
 
