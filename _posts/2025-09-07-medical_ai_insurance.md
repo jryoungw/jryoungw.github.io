@@ -51,12 +51,12 @@ CPT 코드가 medical AI 장비들에 더 적용되고 있긴 하지만 이 코�
 
 괄호 안의 금액은 청구 금액을 제가 직접 조사한 후 달러로 환산하였을 때 **일 평균 청구되는 비용**입니다. 청구 금액이 조사 결과 미상인 경우 기입하지 않았고, 정확한 금액이 아니라 범위로 주어진 경우는 범위로 표시하였습니다.
 
-- HeartFlow : 총 67,306건 → 36.88건/일 (검사당 $1450.5 → 일 평균 $53,494.44; [reference](https://www.heartflow.com/newsroom/heartflow-announces-decision-by-centers-for-medicare-medicaid-services-to-assign-a-new-technology-payment-classification-to-heartflow-ffrct-analysis/))
-- LumineticsCore : 총 15,097건 → 16.54건/일 (검사당 $45.36 → 일 평균 $750.25; [reference](https://www.reviewofophthalmology.com/article/medicare-whats-new-for-2022))
+- HeartFlow : 총 67,306건 → 36.88건/일 (검사당 1450.5 달러 → 일 평균 53,494.44 달러; [reference](https://www.heartflow.com/newsroom/heartflow-announces-decision-by-centers-for-medicare-medicaid-services-to-assign-a-new-technology-payment-classification-to-heartflow-ffrct-analysis/))
+- LumineticsCore : 총 15,097건 → 16.54건/일 (검사당 45.36 달러 → 일 평균 750.25 달러; [reference](https://www.reviewofophthalmology.com/article/medicare-whats-new-for-2022))
     
     ![IMG_1225.jpeg](/img/reimbursement/1.1.jpeg)
     
-- Cleearly : 총 4,459건 → 4.88건/일 (검사당 약 $900-$1000 → 일 평균 $4,392-$4,880)
+- Cleearly : 총 4,459건 → 4.88건/일 (검사당 약 900-1000 달러 → 일 평균 4,392-4,880 달러)
     
     ![IMG_1226.jpeg](/img/reimbursement/2.jpeg)
     
@@ -86,7 +86,7 @@ CPT 코드가 medical AI 장비들에 더 적용되고 있긴 하지만 이 코�
 
 ## 논문 자체의 결과
 
-HeartFlow가 가장 많은 일 평균 수입을 올렸고(약 $53,494.44), 이후가 Cleerly(약 $4,392-$4,880), 그 다음이 Digital Diagnostics 사의 LumineticsCore (약 $750.25) 순이었습니다. CPT코드를 받는다고 전부 다 수익이 발생하는 것은 아니었습니다(Optellum 이후의 제품들은 6개월~1.5년동안 청구 건수가 0건에 달했음).
+HeartFlow가 가장 많은 일 평균 수입을 올렸고(약 53,494.44 달러), 이후가 Cleerly(약 4,392-4,880 달러), 그 다음이 Digital Diagnostics 사의 LumineticsCore (약 750.25 달러) 순이었습니다. CPT코드를 받는다고 전부 다 수익이 발생하는 것은 아니었습니다(Optellum 이후의 제품들은 6개월~1.5년동안 청구 건수가 0건에 달했습니다).
 
 ## 개인적 고찰
 
