@@ -1,26 +1,13 @@
-# (Paper Review) Characterizing the Clinical Adoption of Medical AI Devices through U.S. Insurance Claims
+---
+title: "Medical AI는 돈이 될까요? - 2023년까지의 보험 청구 건수를 바탕으로"
+tags:
+  - medical AI
+  - reimbursement
+  - insurance
+  - CPT code
+use_math: true
+---
 
-Published at: 2023/11/14
-Created: 2023년 11월 14일 오전 10:27
-Created By: Ryoungwoo Jang
-Last Edited Time: 2023년 11월 20일 오후 8:25
-Author: 장령우
-Last Edited By: Ryoungwoo Jang
-Tags: cat: paper-review
-Interests: Ryoungwoo Jang, Donghoon Yu, Jaeyoun Yi, Jiwan Kwak, Hyeyi Park, Joonmin Park, Hyunchul Kim, Jason Suh, Dmitrii Tegai, Hanjoon Ryu, Kyonghee Lee, Yohan Lee, Hyochang Jang, Dongkyun Jang, 류원석, 박용구, hyungkeun lee, Jungchul Lim, CheolJung Kim, Hyejin Lee, Jonghwan Jung
-추천자 수: 0
-
-# Paper Information
-
-- Title : Characterizing the Clinical Adoption of Medical AI Devices through U.S. Insurance Claims
-- Journal : NEJM AI
-- DOI : 10.1056.AIoa2300030
-- Authors : Kevin Wu *et al*
-- Published date : November 9, 2023
-- Paper
-    
-    [b35da8b4-b078-492b-ae20-bf938063e91f.pdf]((Paper%20Review)%20Characterizing%20the%20Clinical%20Adoptio%20e880c8059c0b4818aca37d836ff2e069/b35da8b4-b078-492b-ae20-bf938063e91f.pdf)
-    
 
 # Introduction
 
