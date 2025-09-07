@@ -49,7 +49,7 @@ CPT 코드가 medical AI 장비들에 더 적용되고 있긴 하지만 이 코�
 
 ## 일 평균 청구 건수
 
-괄호 안의 금액은 청구 금액을 장령우 전임이 직접 조사한 후 달러로 환산하였을 때 **일 평균 청구되는 비용**입니다. 청구 금액이 조사 결과 미상인 경우 기입하지 않았고, 정확한 금액이 아니라 범위로 주어진 경우는 범위로 표시하였습니다.
+괄호 안의 금액은 청구 금액을 제가 직접 조사한 후 달러로 환산하였을 때 **일 평균 청구되는 비용**입니다. 청구 금액이 조사 결과 미상인 경우 기입하지 않았고, 정확한 금액이 아니라 범위로 주어진 경우는 범위로 표시하였습니다.
 
 - HeartFlow : 총 67,306건 → 36.88건/일 (검사당 $1450.5 → 일 평균 $53,494.44; [reference](https://www.heartflow.com/newsroom/heartflow-announces-decision-by-centers-for-medicare-medicaid-services-to-assign-a-new-technology-payment-classification-to-heartflow-ffrct-analysis/))
 - LumineticsCore : 총 15,097건 → 16.54건/일 (검사당 $45.36 → 일 평균 $750.25; [reference](https://www.reviewofophthalmology.com/article/medicare-whats-new-for-2022))
@@ -68,7 +68,7 @@ CPT 코드가 medical AI 장비들에 더 적용되고 있긴 하지만 이 코�
 - Perspectum MRCP+ : 총 237건 → 0.43건/일
 - CompuFlo : 총 67건 → 0.36건/일
 - Optellum : 총 4건 → 0.01건/일 (검사당 약 $600-$700 → 일 평균 $6-7, [reference](https://optellum.com/2022/06/press-release-cms-assigns-new-technology-payment-classification-for-optellums-lung-cancer-prediction-score/))
-- 1건 이하인 것들은 계산하지 않음
+- 1건 이하인 것들은 계산하지 않았습니다.
 
 ## 지역에 따른 차이
 
