@@ -112,5 +112,33 @@ HeartFlow가 가장 많은 일 평균 수입을 올렸고(약 35,000 달러), �
 - [X409T](https://www.ama-assn.org/system/files/cpt-panel-february-2025-public-agenda.pdf): AI가 지방을 분석하여 심장마비의 위험성을 알려주는(perivascular fat analysis for cardiac risk) 소프트웨어에 적용될 수 있습니다.
 - [X237T](https://www.urologytimes.com/view/cpt-code-x237t-issued-for-unfold-ai-in-prostate-cancer): Avenda사의 prostate cancer 제품인 Unfold AI에 적용되는 CPT code입니다.
 
+# 그렇다면 의료인공지능은 수익 창출이 가능할까요?
+
+HeartFlow는 의료인공지능 전문 기업 최초로 NASDAQ에 상장하였고 따라서 [S-1 문서](https://www.sec.gov/Archives/edgar/data/1464521/000162828025035242/heartflowinc-sx1.htm)가 공개되어 있습니다.
+
+HeartFlow의 2024년 회계년도 (2024.12.31) 기준 매출은 125.8 million dollar(1750억 원)이었습니다. 2023년에는 그 2/3인 87.2 million dollar(1210억 원)이었음에 비하면 매출이 50퍼센트 증가했음을 알 수 있습니다. 하지만 누적 적자 또한 1.0 billion dollar (1387억 원)에 달해 재무 상태가 좋지는 않습니다.
+
+![heartflow_revenue](/img/reimbursement/heartflow_revenue.png)
+
+위 표를 보면 매출(revenue)은
+- 2023년 87.2M 달러
+- 2024년 125.8M 달러
+- 2025년 1분기 37.2M 달러
+
+순손실(net loss)은
+- 2023년 -79.2M 달러
+- 2024년 -61.2M 달러
+- 2025년 1분기 -17.5M 달러
+
+주당 손실(net loss per share)은
+- 2023년 -8.67달러
+- 2024년 -6.16달러
+- 2025년 1분기 -1.80달러
+
+로 성장세를 그리는 것을 볼 수 있습니다.
+
+# 총평
+
+아직 지구상에 의료인공지능으로 순이익을 내는 회사는 없습니다. 하지만 수많은 회사들이 자기의 분야에서 각고의 노력을 지속하는 만큼, 그리고 HeartFlow가 guideline에도 포함될 정도로 열심히 일하는 만큼, HeartFlow가 적자폭이 개선되고 있는 만큼, 저는 의료인공지능 붐이 올 것이라 생각합니다. 의료인공지능 붐은 온다...!
 
 
