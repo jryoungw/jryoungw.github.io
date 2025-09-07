@@ -90,7 +90,7 @@ HeartFlow가 가장 많은 일 평균 수입을 올렸고(약 35,000 달러), �
 
 ### 목록
 
-[출처](https://www.medpac.gov/wp-content/uploads/2024/06/Jun24_Ch4_MedPAC_Report_To_Congress_SEC.pdf)를 참고했습니다.
+[출처](https://www.medpac.gov/wp-content/uploads/2024/06/Jun24_Ch4_MedPAC_Report_To_Congress_SEC.pdf)를 참고했고 제가 아는 것들도 기입하였습니다.
 
 1. HeartFlow, FFR-CT: De Novo 승인, Class II 기기, OPPS 하에서 997달러, PFS 하에서 903달러.
 2. Oculogica, EyeBox: De Novo 승인, Class II 기기, 122 달러
