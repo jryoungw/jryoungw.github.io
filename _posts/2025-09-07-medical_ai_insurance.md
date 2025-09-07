@@ -90,6 +90,8 @@ HeartFlow가 가장 많은 일 평균 수입을 올렸고(약 35,000 달러), �
 
 ### 목록
 
+[출처](https://www.medpac.gov/wp-content/uploads/2024/06/Jun24_Ch4_MedPAC_Report_To_Congress_SEC.pdf)를 참고했습니다.
+
 1. HeartFlow, FFR-CT: De Novo 승인, Class II 기기, OPPS 하에서 997달러, PFS 하에서 903달러.
 2. Oculogica, EyeBox: De Novo 승인, Class II 기기, 122 달러
 3. Digital Diagnostics, LumineticsCore (이전에는 IDx-DR): De Novo 승인, Class II 기기, OPPS 하에서 58달러, PFS 하에서 41달러
@@ -100,6 +102,15 @@ HeartFlow가 가장 많은 일 평균 수입을 올렸고(약 35,000 달러), �
 8. 4D Medical, XV Lung Ventilation Analysis Software: 510(k) 승인, Class II 기기, CPT 0807T, 0808T에서 299달러
 9. Icometrix, Icobrain: 510(k) 승인, Class II기기, CPT 0865T, 0866T에서 234달러
 10. Ultromics, EchoGo Heart Failure: 510(k) 승인, Class II 기기, Breakthrough device designation, OPPS에서 285달러, PFS에서는 billing code가 없음.
+11. HeartLung, AutoChamber: 510(k) 승인, Class II 기기, G0183에서 88.06달러, 2025년 4월 1일 시행.
+
+### 아직 수가가 청구되지 않은 코드들의 예시
+
+- [0877T](https://www.aapc.com/codes/cpt-codes/0877T?srsltid=AfmBOoqp3HNlJUZAGgzCQ5mau2pjuAnjxlWVf2ISQg4b5gfGu4GWXfOg), [0878T](https://www.aapc.com/codes/cpt-codes/0878T?srsltid=AfmBOopGWc5v1jXfESBxCGJZVmuhOMZgDrqDMCBJBQ3IKTfSbhC-83tt), [0879T](https://www.aapc.com/codes/cpt-codes/0879T?srsltid=AfmBOorUL9IzYAJKQBUn5VfBr8s-5w6oV0oenWh1g7UwNK9vX2BYZs7N), [0880T](https://www.aapc.com/codes/cpt-codes/0880T?srsltid=AfmBOorYMemIez3txpfRWAjFawDco9NnUJSi8zEl_VfNKQlZE64K-d_k): 간질성 폐 질환(interstitial lung disease; ILD)의 분석과 분류. IMVARIA라는 회사의 ScreenDx와 Fibresolve라는 제품들에 할당된 코드로 보입니다. ([IMVARIA 홈페이지](https://www.imvaria.com/fibresolve)에서 찾으실 수 있습니다.)
+- [0623T](https://www.aapc.com/codes/cpt-codes/0623T?srsltid=AfmBOooxaNHx3fChAw9Iry3pvn4e1Hb41FZMgl9V_OTCdHz0IAJItOzT), [0624T](https://www.aapc.com/codes/cpt-codes/0624T?srsltid=AfmBOoq4qB4qC7yDSDw9eUPXuyQRN4jbAfl1BEc_Bb9M0BHPou6MIw1w), [0625T](https://www.aapc.com/codes/cpt-codes/0625T?srsltid=AfmBOooJnC4S1SQQfTRQgVLEe7pC-JC0jYD-fG3kYGEvZdqIQziGiF6-), [0626T](https://www.aapc.com/codes/cpt-codes/0626T?srsltid=AfmBOoroDi4-nx9PV3KYcA_V1nuolDAJ99KEfuhNy-N2B2j2X9p7IquM): 관상동맥(coronary artery)의 혈관조영술(angiography)를 분석하는 소프트웨어. [HeartFlow](https://citoday.com/news/heartflows-ccta-outpatient-reimbursement-increased-by-cms), [Cleerly](https://cleerlyhealth.com/reimbursement-guidelines), [Elucid](https://elucid.com/elucids-plaqueiq-image-analysis-software-included-in-evicore-coverage-guidelines/)와 같은 회사의 제품들에 적용될 수 있습니다.
+- [X408T](https://www.ama-assn.org/system/files/cpt-panel-february-2025-public-agenda.pdf): AI가 대장내시경(colonoscopy)를 실시간으로 도와주는데 쓰일 수 있습니다.
+- [X409T](https://www.ama-assn.org/system/files/cpt-panel-february-2025-public-agenda.pdf): AI가 지방을 분석하여 심장마비의 위험성을 알려주는(perivascular fat analysis for cardiac risk) 소프트웨어에 적용될 수 있습니다.
+- [X237T](https://www.urologytimes.com/view/cpt-code-x237t-issued-for-unfold-ai-in-prostate-cancer): Avenda사의 prostate cancer 제품인 Unfold AI에 적용되는 CPT code입니다.
 
 
 
