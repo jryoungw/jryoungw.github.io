@@ -1,5 +1,5 @@
 ---
-title: "Medical AI는 돈이 될까요? - 2023년까지의 보험 청구 건수를 바탕으로"
+title: "Medical AI는 돈이 될까요? - 보험 청구 건수를 바탕으로"
 tags:
   - medical AI
   - reimbursement
