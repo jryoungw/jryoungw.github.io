@@ -51,7 +51,7 @@ CPT 코드가 medical AI 장비들에 더 적용되고 있긴 하지만 이 코�
 
 괄호 안의 금액은 청구 금액을 제가 직접 [링크](https://www.medpac.gov/wp-content/uploads/2024/06/Jun24_Ch4_MedPAC_Report_To_Congress_SEC.pdf)에서 조사한 후 달러로 환산하였을 때 **일 평균 청구되는 비용**입니다. 청구 금액이 조사 결과 미상인 경우 기입하지 않았고, 정확한 금액이 아니라 범위로 주어진 경우는 범위로 표시하였습니다.
 
-- HeartFlow : 총 67,306건 → 36.88건/일 (검사당 997(OPPS를 통해) 혹은 903(PFS를 통해) 달러이므로 950달러로 추산하면 → 일 평균 약 35000 달러; [reference](https://www.heartflow.com/newsroom/heartflow-announces-decision-by-centers-for-medicare-medicaid-services-to-assign-a-new-technology-payment-classification-to-heartflow-ffrct-analysis/))
+- HeartFlow : 총 67,306건 → 36.88건/일 (검사당 997(OPPS를 통해) 혹은 903(PFS를 통해) 달러이므로 950달러로 추산하면 → 일 평균 약 35ㅡ000 달러; [reference](https://www.heartflow.com/newsroom/heartflow-announces-decision-by-centers-for-medicare-medicaid-services-to-assign-a-new-technology-payment-classification-to-heartflow-ffrct-analysis/))
 - LumineticsCore : 총 15,097건 → 16.54건/일 (검사당 58(OPPS) 혹은 41(PFS) 달러이므로 50달러로 추산하면 → 일 평균 827 달러; [reference](https://www.reviewofophthalmology.com/article/medicare-whats-new-for-2022))
     
     ![IMG_1225.jpeg](/img/reimbursement/1.1.jpeg)
@@ -86,10 +86,26 @@ CPT 코드가 medical AI 장비들에 더 적용되고 있긴 하지만 이 코�
 
 ## 논문 자체의 결과
 
-HeartFlow가 가장 많은 일 평균 수입을 올렸고(약 53,494.44 달러), 이후가 Cleerly(약 4,392-4,880 달러), 그 다음이 Digital Diagnostics 사의 LumineticsCore (약 750.25 달러) 순이었습니다. CPT코드를 받는다고 전부 다 수익이 발생하는 것은 아니었습니다(Optellum 이후의 제품들은 6개월~1.5년동안 청구 건수가 0건에 달했습니다).
+HeartFlow가 가장 많은 일 평균 수입을 올렸고(약 35,000 달러), 이후가 Cleerly(약 4,392-4,880 달러), 그 다음이 Digital Diagnostics 사의 LumineticsCore (약 827 달러) 순이었습니다. CPT코드를 받는다고 전부 다 수익이 발생하는 것은 아니었습니다(Optellum 이후의 제품들은 6개월~1.5년동안 청구 건수가 0건에 달했습니다).
 
-## 개인적 고찰
+# 더 나아가서
 
-물론 시장성이 있는 제품을 디자인하면 좋겠으나 현실적으로 미래의 수요를 예측할 수는 없으므로 만들어진 제품을 적절히 시장과 임상 현장에 녹여내는 것이 중요한 지점이 됩니다.
+위 연구는 2023년 까지의 결과이고 사보험의 청구 건수를 확인한 것 정도로 이해할 수 있습니다. 그렇다면 Medicare & Medicaid에서 지불하는 수가들이 저것밖에 없는지 궁금해집니다. 최신 업데이트는 아니지만 2024년 6월에 공개된 자료에 의하면 다음처럼 요약할 수 있습니다.
 
-HeartFlow는 AHA (미국심장협회; American Heart Association) 의 가이드라인을 바꿀 정도로 많은 노력과 임상시험을 진행하였습니다. 
+## SaMD 제품들의 외래 환경에서 FDA 수가 상황
+
+### 목록
+
+1. HeartFlow, FFR-CT: De Novo 승인, Class II 기기, OPPS 하에서 997달러, PFS 하에서 903달러.
+2. Oculogica, EyeBox: De Novo 승인, Class II 기기, 122 달러
+3. Digital Diagnostics, LumineticsCore (이전에는 IDx-DR): De Novo 승인, Class II 기기, OPPS 하에서 58달러, PFS 하에서 41달러
+4. Perspectum, LiverMultiScan: 510(k) 승인, Class II 기기, CPT code 0648T, 0649T에서 950달러
+5. Optellum, Virtual Node Clinic: 510(k) 승인, Class II 기기, CPT code 0721T, 0722T에서 650달러
+6. Perspectum, Quantitative MRCP: 510(k) 승인, Class II 기기, CPT code 0723T, 0724T에서 950달러
+7. Cleerly, Cleerly Labs: 510(k) 승인, Class II 기기, 950달러
+8. 4D Medical, XV Lung Ventilation Analysis Software: 510(k) 승인, Class II 기기, CPT 0807T, 0808T에서 299달러
+9. Icometrix, Icobrain: 510(k) 승인, Class II기기, CPT 0865T, 0866T에서 234달러
+10. Ultromics, EchoGo Heart Failure: 510(k) 승인, Class II 기기, Breakthrough device designation, OPPS에서 285달러, PFS에서는 billing code가 없음.
+
+
+
