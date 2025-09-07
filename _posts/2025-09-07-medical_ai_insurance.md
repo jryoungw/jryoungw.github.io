@@ -11,7 +11,7 @@ use_math: true
 
 # Introduction
 
-[NEJM AI](ai.nejm.org) 1호에 출간된 [논문](https://ai.nejm.org/doi/full/10.1056/AIoa2300030)으로, 2024년 1월에 출간된 논문입니다. 좀 철이 지나기는 했지만, 많은 분들이 리뷰를 해 주셨음에도 불구하고 아직 모르는 분들이 종종 보이는 것 같아 저도 한 번 리뷰를 해 봅니다.
+첫 번째로 볼 것은 [NEJM AI](ai.nejm.org) 1호에 출간된 [논문](https://ai.nejm.org/doi/full/10.1056/AIoa2300030)으로, 2024년 1월에 출간된 논문입니다. 좀 철이 지나기는 했지만, 많은 분들이 리뷰를 해 주셨음에도 불구하고 아직 모르는 분들이 종종 보이는 것 같아 저도 한 번 리뷰를 해 봅니다.
 
 2023년 현재, 미국 FDA 인허가를 받은 medical AI 제품들은 500개가 넘습니다. 하지만 인허가 이후에 회사들은 언제 어디에 자신들의 제품이 쓰이는지 거의 공유하지 않기 때문에 본 글에서는 medical AI 제품의 real-world usage에 대해 고찰합니다.
 
@@ -19,7 +19,7 @@ AI 제품들이 의료에서 쓰이게 될 때 사용처와 적용 패턴이 임
 
 미국의 보험 수가 체계인 CPT 코드는 최근 medical AI 장비들에 적용되고 만들어지기 시작했습니다. 미국 보험청인 CMS는 CPT 코드 뿐 아니라 new technology add-on payment (NTAP)과 같은 제도를 만들어서 새로운 기술을 도입하는 것을 장려하기도 하였는데 NTAP과 같은 경우에는 입원 환자들만을 대상으로 하고 CPT 코드는 입원, 외래 환자 모두에게 적용이 가능합니다. 본 글에서는 더 일반적으로 사용이 가능한 CPT 코드만을 다루기로 합니다.
 
-CPT 코드가 medical AI 장비들에 더 적용되고 있긴 하지만 이 코드들은 하나의 database에서 관리되지 않고 이들의 사용처에 대한 체계적인 분석이 이루어지지도 않았습니다. 따라서 본 글에서는 청구 건수와 관련하여 이러한 사용처를 분석해 봅니다.
+CPT 코드가 medical AI 장비들에 더 적용되고 있긴 하지만 이 코드들은 하나의 database에서 관리되지 않고 이들의 사용처에 대한 체계적인 분석이 이루어지지도 않았습니다. 따라서 본 논문에서는 청구 건수와 관련하여 이러한 사용처를 분석해 봅니다.
 
 # Methods
 
@@ -49,10 +49,10 @@ CPT 코드가 medical AI 장비들에 더 적용되고 있긴 하지만 이 코�
 
 ## 일 평균 청구 건수
 
-괄호 안의 금액은 청구 금액을 제가 직접 조사한 후 달러로 환산하였을 때 **일 평균 청구되는 비용**입니다. 청구 금액이 조사 결과 미상인 경우 기입하지 않았고, 정확한 금액이 아니라 범위로 주어진 경우는 범위로 표시하였습니다.
+괄호 안의 금액은 청구 금액을 제가 직접 [링크](https://www.medpac.gov/wp-content/uploads/2024/06/Jun24_Ch4_MedPAC_Report_To_Congress_SEC.pdf)에서 조사한 후 달러로 환산하였을 때 **일 평균 청구되는 비용**입니다. 청구 금액이 조사 결과 미상인 경우 기입하지 않았고, 정확한 금액이 아니라 범위로 주어진 경우는 범위로 표시하였습니다.
 
-- HeartFlow : 총 67,306건 → 36.88건/일 (검사당 1450.5 달러 → 일 평균 53,494.44 달러; [reference](https://www.heartflow.com/newsroom/heartflow-announces-decision-by-centers-for-medicare-medicaid-services-to-assign-a-new-technology-payment-classification-to-heartflow-ffrct-analysis/))
-- LumineticsCore : 총 15,097건 → 16.54건/일 (검사당 45.36 달러 → 일 평균 750.25 달러; [reference](https://www.reviewofophthalmology.com/article/medicare-whats-new-for-2022))
+- HeartFlow : 총 67,306건 → 36.88건/일 (검사당 997(OPPS를 통해) 혹은 903(PFS를 통해) 달러이므로 950달러로 추산하면 → 일 평균 약 35000 달러; [reference](https://www.heartflow.com/newsroom/heartflow-announces-decision-by-centers-for-medicare-medicaid-services-to-assign-a-new-technology-payment-classification-to-heartflow-ffrct-analysis/))
+- LumineticsCore : 총 15,097건 → 16.54건/일 (검사당 58(OPPS) 혹은 41(PFS) 달러이므로 50달러로 추산하면 → 일 평균 827 달러; [reference](https://www.reviewofophthalmology.com/article/medicare-whats-new-for-2022))
     
     ![IMG_1225.jpeg](/img/reimbursement/1.1.jpeg)
     
