@@ -53,13 +53,7 @@ CPT 코드가 medical AI 장비들에 더 적용되고 있긴 하지만 이 코�
 
 - HeartFlow : 총 67,306건 → 36.88건/일 (검사당 997(OPPS를 통해) 혹은 903(PFS를 통해) 달러이므로 950달러로 추산하면 → 일 평균 약 35ㅡ000 달러; [reference](https://www.heartflow.com/newsroom/heartflow-announces-decision-by-centers-for-medicare-medicaid-services-to-assign-a-new-technology-payment-classification-to-heartflow-ffrct-analysis/))
 - LumineticsCore : 총 15,097건 → 16.54건/일 (검사당 58(OPPS) 혹은 41(PFS) 달러이므로 50달러로 추산하면 → 일 평균 827 달러; [reference](https://www.reviewofophthalmology.com/article/medicare-whats-new-for-2022))
-    
-    ![IMG_1225.jpeg](/img/reimbursement/1.1.jpeg)
-    
 - Cleearly : 총 4,459건 → 4.88건/일 (검사당 약 900-1000 달러 → 일 평균 4,392-4,880 달러)
-    
-    ![IMG_1226.jpeg](/img/reimbursement/2.jpeg)
-    
 - Perspectum LiverMultiScan : 총 2,428건 → 2.66건/일
 - Perspectum CoverScan : 총 591건 → 1.08건/일
 - Koios DS : 총 552건 → 1.01건/일
