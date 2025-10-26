@@ -7,6 +7,7 @@ tags:
   - GO-Up
   - Ornstein-Uhlenbeck Process
 ---
+수식이 깨지면 [이 링크](https://jryoungw.notion.site/No-more-Backpropagation-GO-UP-298d2b05537380938b77fd7f34e7f788?source=copy_link)에서 보세요.
 # 문제의식
 
 Backpropagation (BP)은 neural network (NN)의 유일한 학습 알고리즘으로 1986년 Geoffrey Hinton의 [논문](https://www.nature.com/articles/323533a0)에서 처음 제안되었고 현재까지도 그 명성을 유지하며 널리 사용되고 있습니다. 현재 가장 많이 쓰이는 deep learning (DL) 프레임워크인 Tensorflow (Keras), PyTorch 또한 BP를 기반으로 NN을 학습하고 있으니까요.
