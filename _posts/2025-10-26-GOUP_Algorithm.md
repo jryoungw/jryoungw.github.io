@@ -60,7 +60,7 @@ $$
 
 가 될 것입니다. 우리가 집중할 것은 위 식입니다. 위 식에서 $\eta_t$를 보기 위해 ResNet에서 아무 iteration, 아무 layer만 꺼내서 $\alpha\theta_t-\alpha\frac{\partial L}{\partial\theta_t}$ 부분을 실제로 살펴보면
 
-![oup.png](No%20more%20Backpropagation%20GO-UP%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20298d2b05537380938b77fd7f34e7f788/oup.png)
+![oup.png](/img/GOUP/oup.png)
 
 빨간색이 $\alpha\theta_t-\alpha\frac{\partial L}{\partial\theta_t}$를 plot 한 것, 파란색이 각 $\alpha\theta_t-\alpha\frac{\partial L}{\partial\theta_t}$의 평균과 분산에 대해서 Gaussian을 fitting한 것으로 이해하시면 됩니다. 놀랍게도 거의 완벽하게 맞는 것을 확인할 수 있습니다. 즉,
 
@@ -115,7 +115,7 @@ $$
 
 실제로 위 코드를 통해 no optimizer, no gradient descent, no backprogagation을 통해 학습하면 다음의 CIFAR10 데이터에 대한 NN의 결과를 얻을 수 있습니다:
 
-![figure_2.png](No%20more%20Backpropagation%20GO-UP%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20298d2b05537380938b77fd7f34e7f788/figure_2.png)
+![figure_2.png](/img/GOUP/figure_2.png)
 
 실제로 학습이 됩니다!
 
