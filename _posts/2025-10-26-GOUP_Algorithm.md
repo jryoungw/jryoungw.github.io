@@ -1,5 +1,12 @@
-# No more Backpropagation: GO-UP 알고리즘
-
+---
+title: "No more Backpropagation - GO-UP 알고리즘의 소개"
+categories: [Deep learning]
+tags:
+  - Deep Learning
+  - Backpropagation
+  - GO-Up
+  - Ornstein-Uhlenbeck Process
+---
 # 문제의식
 
 Backpropagation (BP)은 neural network (NN)의 유일한 학습 알고리즘으로 1986년 Geoffrey Hinton의 [논문](https://www.nature.com/articles/323533a0)에서 처음 제안되었고 현재까지도 그 명성을 유지하며 널리 사용되고 있습니다. 현재 가장 많이 쓰이는 deep learning (DL) 프레임워크인 Tensorflow (Keras), PyTorch 또한 BP를 기반으로 NN을 학습하고 있으니까요.
