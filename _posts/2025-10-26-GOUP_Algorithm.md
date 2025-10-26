@@ -97,7 +97,7 @@ import torch.nn
 
 outputs = net(inputs)
 loss = criterion(outputs, inputs)
-loss.backward() # grad.param을 계산하기 위해서 필요합니다.
+loss.backward() # param.grad 계산하기 위해서 필요합니다.
 for param in net.parameters():
     param.data = (1 - lr) * param + (torch.randn_like(param) \
             * torch.std(param - param.grad) + param - param.grad) * lr
