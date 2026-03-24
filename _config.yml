@@ -1,15 +1,15 @@
 # ─────────────────────────────────────────────
 #  Site Settings
 # ─────────────────────────────────────────────
-title:          "Research Blog"
-tagline:        "Medical AI · Mathematics"
-description:    "Explorations in probabilistic modeling, deep learning theory, and medical AI."
-url:            "https://YOUR_USERNAME.github.io"   # ← GitHub username으로 변경
+title:          "Blog of Ryoungwoo Jang"
+tagline:        "Medical AI, Mathematics, and Various Things"
+description:    "Explorations in Medical AI, Mathematics, and Various Things."
+url:            "https://jryoungw.github.io"   # ← GitHub username으로 변경
 baseurl:        ""                                   # repo가 username.github.io면 "" / 아니면 "/repo-name"
 author:
-  name:         "Your Name"
-  email:        "your@email.com"
-  github:       "YOUR_USERNAME"
+  name:         "Ryoungwoo Jang"
+  email:        "jryoungw2035@gmail.com"
+  github:       "jryoungw"
   twitter:      ""
   google_scholar: ""
 
