@@ -4,7 +4,19 @@ title: About
 overline: Researcher
 permalink: /about/
 ---
-
+<!-- 프로필 헤더 블록 -->
+<div style="margin-bottom: 2.5rem;">
+  <img src="/img/new_myself.JPG" alt="Profile photo"
+       style="width: 100%; max-width: 100%; height: auto;
+              display: block; border-radius: 6px;
+              border: 1px solid var(--border); margin-bottom: 1.2rem;">
+  <div style="font-family: var(--font-serif); font-size: 1.4rem; font-weight: 500; margin-bottom: .2rem;">
+    Ryoungwoo Jang
+  </div>
+  <div style="font-size: .85rem; color: var(--text-muted);">
+    Researcher · Medical AI · Mathematics
+  </div>
+</div>
 <div class="about-grid">
   <div class="about-body article-body">
 
@@ -52,7 +64,7 @@ permalink: /about/
 
   <div class="cv-sidebar">
     <div class="cv-sidebar__avatar">
-      <img src="/img/new_myself.JPG" alt="Profile photo">
+      <!-- <img src="/img/new_myself.JPG" alt="Profile photo"> -->
       ✦
     </div>
     <div class="cv-sidebar__info">
