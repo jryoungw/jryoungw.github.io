@@ -52,7 +52,7 @@ permalink: /about/
 
   <div class="cv-sidebar">
     <div class="cv-sidebar__avatar">
-      <!-- 사진 넣을 경우: <img src="/img/profile/avatar.jpg" alt="Profile photo"> -->
+      <img src="/img/new_myself.JPG" alt="Profile photo">
       ✦
     </div>
     <div class="cv-sidebar__info">
