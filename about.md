@@ -76,14 +76,10 @@ permalink: /about/
   </div>
 
   <div class="cv-sidebar">
-    <div class="cv-sidebar__avatar">
-      <!-- <img src="/img/new_myself.JPG" alt="Profile photo"> -->
-      ✦
-    </div>
     <div class="cv-sidebar__info">
       <strong>{{ site.author.name }}</strong><br>
-      Researcher<br>
-      Medical AI · Mathematics<br><br>
+      Medical AI Researcher<br>
+      Medical AI · Mathematics · Machine Learning<br><br>
       <a href="/assets/cv.pdf" style="font-family:var(--font-mono);font-size:.7rem;letter-spacing:.06em;text-transform:uppercase;border:1px solid var(--border);border-radius:4px;padding:.3em .7em;color:var(--text-muted);display:inline-block;transition:all .2s;" onmouseover="this.style.borderColor='var(--accent)';this.style.color='var(--accent)'" onmouseout="this.style.borderColor='var(--border)';this.style.color='var(--text-muted)'">
         Download CV ↓
       </a>
