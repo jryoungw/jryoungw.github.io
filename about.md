@@ -40,14 +40,27 @@ permalink: /about/
       <li>Automatic differentiation and custom gradient computation</li>
     </ul>
 
-    <h2>Education</h2>
+    <h2>Career</h2>
     <p>
-      <strong>Ph.D. Candidate</strong>, Computer Science<br>
-      <span style="color:var(--text-muted);">Your University · 2022 – present</span>
+      <strong>Clinical Research Lead. </strong>
+      <span style="color:var(--text-muted);">Coreline Soft · 2024 - now</span>
+    <p>
+      <strong>Associate Research Engineer. </strong>, Reserch Center<br>
+      <span style="color:var(--text-muted);">Coreline Soft · 2022 – 2024</span>
     </p>
     <p>
-      <strong>B.S.</strong>, Mathematics &amp; Computer Science<br>
-      <span style="color:var(--text-muted);">Your University · 2018 – 2022</span>
+      <strong>Researcher </strong>, Chest Team<br>
+      <span style="color:var(--text-muted);">VUNO · 2021 – 2022</span>
+    </p>
+
+    <h2>Education</h2>
+    <p>
+      <strong>M.S. </strong>, Biomedical Engineering<br>
+      <span style="color:var(--text-muted);">University of Ulsan, Asan Medical Center · 2019 – 2021</span>
+    </p>
+    <p>
+      <strong>B.S., M.D.</strong>, Medicine<br>
+      <span style="color:var(--text-muted);">Yeungnam University · 2012 – 2029</span>
     </p>
 
     <h2>Selected Publications</h2>
