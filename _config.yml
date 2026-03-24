@@ -44,6 +44,8 @@ paginate_path:  "/posts/page/:num/"
 #  Collections
 # ─────────────────────────────────────────────
 collections:
+  pages:
+    output: true
   publications:
     output: true
     permalink: /publications/:name/
