@@ -83,6 +83,4 @@ permalink: /about/
       <a href="/assets/cv.pdf" style="font-family:var(--font-mono);font-size:.7rem;letter-spacing:.06em;text-transform:uppercase;border:1px solid var(--border);border-radius:4px;padding:.3em .7em;color:var(--text-muted);display:inline-block;transition:all .2s;" onmouseover="this.style.borderColor='var(--accent)';this.style.color='var(--accent)'" onmouseout="this.style.borderColor='var(--border)';this.style.color='var(--text-muted)'">
         Download CV ↓
       </a>
-
-  </div>
 </div>
