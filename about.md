@@ -42,7 +42,7 @@ permalink: /about/
 
     <h2>Career</h2>
     <p>
-      <strong>Clinical Research Lead. </strong>
+      <strong>Clinical Research Lead. </strong><br>
       <span style="color:var(--text-muted);">Coreline Soft · 2024 - now</span>
     <p>
       <strong>Associate Research Engineer. </strong>, Reserch Center<br>
