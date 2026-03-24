@@ -73,8 +73,6 @@ permalink: /about/
       {% if site.author.google_scholar %} · <a href="{{ site.author.google_scholar }}" target="_blank">Google Scholar</a>{% endif %}
     </p>
 
-  </div>
-
   <div class="cv-sidebar">
     <div class="cv-sidebar__info">
       <strong>{{ site.author.name }}</strong><br>
