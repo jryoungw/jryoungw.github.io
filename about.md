@@ -21,23 +21,23 @@ permalink: /about/
   <div class="about-body article-body">
 
     <p>
-      안녕하세요. 저는 의료 AI와 수학의 접점을 연구하는 연구자입니다.
-      이 블로그에는 확률론, 최적화 이론, 딥러닝 그리고 이를 의료 영상 분석에 응용한 내용을 기록합니다.
+      안녕하세요. 저는 의료 AI, 특히 흉부 영상 AI를 연구하고 수학에 관심이 많은 연구하는 연구자입니다.
+      이 블로그에는 흉부 영상 AI, 의료 AI, 그리고 수학에 관한 내용을 기록합니다.
     </p>
 
     <p>
-      Hello! I'm a researcher working at the intersection of medical AI and mathematics.
-      This blog documents my work on probabilistic modeling, optimization theory,
-      deep learning, and their applications to medical image analysis.
+      Hello! I'm a researcher working at the discipline of medical AI and thoracic AI,
+      as well as interested in mathematics, especially probability theory and stochastic calculus.
+      This blog documents my interest and various things.
     </p>
 
     <h2>Research Interests</h2>
     <ul>
-      <li>Uncertainty quantification in medical image segmentation</li>
-      <li>Bayesian deep learning and approximate inference</li>
-      <li>Neural network optimization theory</li>
-      <li>Self-supervised learning for medical imaging</li>
-      <li>Automatic differentiation and custom gradient computation</li>
+      <li>Thoracic AI</li>
+      <li>Pulmonary Functional Imaging</li>
+      <li>Cardiac Functional Imaging</li>
+      <li>Probability Theory</li>
+      <li>Stochastic Calculus</li>
     </ul>
 
     <h2>Career</h2>
