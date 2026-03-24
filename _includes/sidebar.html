@@ -1,0 +1,65 @@
+<aside class="sidebar">
+
+  <div class="sidebar__logo">
+    <a href="{{ '/' | relative_url }}" class="site-name" style="color:inherit;opacity:1;">
+      {{ site.author.name | default: site.title }}
+    </a>
+    <span class="site-tagline">{{ site.tagline }}</span>
+  </div>
+
+  <button class="menu-toggle" id="menu-toggle" aria-label="Toggle navigation">☰ Menu</button>
+
+  <nav class="sidebar__nav" aria-label="Main navigation">
+    <span class="nav-section">Pages</span>
+    <a class="nav-link" href="{{ '/' | relative_url }}">
+      <span class="dot"></span>Posts
+    </a>
+    <a class="nav-link" href="{{ '/about/' | relative_url }}">
+      <span class="dot"></span>About / CV
+    </a>
+    <a class="nav-link" href="{{ '/publications/' | relative_url }}">
+      <span class="dot"></span>Publications
+    </a>
+    <a class="nav-link" href="{{ '/projects/' | relative_url }}">
+      <span class="dot"></span>Projects
+    </a>
+    <a class="nav-link" href="{{ '/search/' | relative_url }}">
+      <span class="dot"></span>Search
+    </a>
+
+    <span class="nav-section">Topics</span>
+    <a class="nav-link" href="{{ '/tags/medical-ai' | relative_url }}">
+      <span class="dot"></span>Medical AI
+    </a>
+    <a class="nav-link" href="{{ '/tags/deep-learning' | relative_url }}">
+      <span class="dot"></span>Deep Learning
+    </a>
+    <a class="nav-link" href="{{ '/tags/mathematics' | relative_url }}">
+      <span class="dot"></span>Mathematics
+    </a>
+    <a class="nav-link" href="{{ '/tags/bayesian' | relative_url }}">
+      <span class="dot"></span>Bayesian
+    </a>
+  </nav>
+
+  <div class="sidebar__footer">
+    <div class="social-links">
+      {% if site.author.github %}
+      <a href="https://github.com/{{ site.author.github }}" target="_blank" rel="noopener">GitHub</a>
+      {% endif %}
+      {% if site.author.google_scholar %}
+      <a href="{{ site.author.google_scholar }}" target="_blank" rel="noopener">Scholar</a>
+      {% endif %}
+      {% if site.author.twitter %}
+      <a href="https://twitter.com/{{ site.author.twitter }}" target="_blank" rel="noopener">Twitter</a>
+      {% endif %}
+      <a href="{{ '/feed.xml' | relative_url }}">RSS</a>
+    </div>
+
+    <button class="dark-toggle" onclick="toggleDark()" aria-label="Toggle dark mode">
+      <span class="track"></span>
+      <span id="toggle-label">Dark mode</span>
+    </button>
+  </div>
+
+</aside>

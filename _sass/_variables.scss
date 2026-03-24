@@ -1,0 +1,66 @@
+// ─── Variables ───────────────────────────────────────────────
+// Light theme
+$bg:           #faf9f6;
+$bg-card:      #ffffff;
+$bg-subtle:    #f3f1ec;
+$border:       #ddd9d0;
+$border-soft:  #e8e5de;
+$text:         #1a1916;
+$text-muted:   #6b6660;
+$text-faint:   #9e9890;
+$accent:       #1a4a6e;
+$accent-2:     #8b2e2e;
+$accent-light: #e8f0f7;
+$tag-bg:       #eef3f8;
+$tag-text:     #1a4a6e;
+$code-bg:      #f6f4f0;
+$rule:         #c8c4bc;
+
+// Typography
+$font-serif:   'EB Garamond', 'Georgia', serif;
+$font-body:    'Spectral', 'Georgia', serif;
+$font-mono:    'JetBrains Mono', monospace;
+
+// Layout
+$sidebar-w:    230px;
+$max-content:  780px;
+$transition:   .25s ease;
+
+// ─── CSS Custom Properties (for JS dark mode) ────────────────
+:root {
+  --bg:          #{$bg};
+  --bg-card:     #{$bg-card};
+  --bg-subtle:   #{$bg-subtle};
+  --border:      #{$border};
+  --border-soft: #{$border-soft};
+  --text:        #{$text};
+  --text-muted:  #{$text-muted};
+  --text-faint:  #{$text-faint};
+  --accent:      #{$accent};
+  --accent-2:    #{$accent-2};
+  --accent-light:#{$accent-light};
+  --tag-bg:      #{$tag-bg};
+  --tag-text:    #{$tag-text};
+  --code-bg:     #{$code-bg};
+  --rule:        #{$rule};
+  --shadow:      0 1px 3px rgba(0,0,0,.07), 0 4px 16px rgba(0,0,0,.04);
+}
+
+[data-theme="dark"] {
+  --bg:          #12110e;
+  --bg-card:     #1c1a16;
+  --bg-subtle:   #222018;
+  --border:      #333028;
+  --border-soft: #2a2820;
+  --text:        #e8e4dc;
+  --text-muted:  #9e9888;
+  --text-faint:  #6a6558;
+  --accent:      #6ba3cc;
+  --accent-2:    #cc7a7a;
+  --accent-light:#172232;
+  --tag-bg:      #1a2838;
+  --tag-text:    #6ba3cc;
+  --code-bg:     #1e1c18;
+  --rule:        #3a3830;
+  --shadow:      0 1px 3px rgba(0,0,0,.3), 0 4px 16px rgba(0,0,0,.2);
+}

@@ -1,0 +1,35 @@
+---
+layout: default
+---
+
+<article>
+  <header style="margin-bottom:2rem;padding-bottom:1.8rem;border-bottom:1px solid var(--border);">
+    <a href="{{ '/publications/' | relative_url }}"
+       style="display:inline-flex;align-items:center;gap:.4rem;font-family:var(--font-mono);font-size:.7rem;letter-spacing:.06em;text-transform:uppercase;color:var(--text-faint);margin-bottom:1.4rem;">
+      ← Publications
+    </a>
+    <div style="font-family:var(--font-mono);font-size:.65rem;letter-spacing:.1em;text-transform:uppercase;color:var(--accent);margin-bottom:.5rem;">
+      {{ page.type | default: "Paper" }}
+    </div>
+    <h1 style="font-family:var(--font-serif);font-size:1.85rem;font-weight:500;letter-spacing:-.02em;line-height:1.22;margin-bottom:.9rem;">
+      {{ page.title }}
+    </h1>
+    <p style="font-size:.85rem;color:var(--text-muted);margin-bottom:.4rem;">{{ page.authors }}</p>
+    <p style="font-size:.82rem;font-style:italic;color:var(--text-faint);margin-bottom:.9rem;">{{ page.venue }}, {{ page.year }}</p>
+    <div style="display:flex;gap:.5rem;flex-wrap:wrap;">
+      {% if page.arxiv %}<a class="pub-card__link" href="{{ page.arxiv }}">arXiv</a>{% endif %}
+      {% if page.pdf   %}<a class="pub-card__link" href="{{ page.pdf }}">PDF</a>{% endif %}
+      {% if page.code  %}<a class="pub-card__link" href="{{ page.code }}">Code</a>{% endif %}
+      {% if page.doi   %}<a class="pub-card__link" href="{{ page.doi }}">DOI</a>{% endif %}
+    </div>
+  </header>
+
+  {% if page.abstract %}
+  <div class="abstract-block">
+    <div class="abstract-block__label">Abstract</div>
+    <p>{{ page.abstract }}</p>
+  </div>
+  {% endif %}
+
+  <div class="article-body">{{ content }}</div>
+</article>

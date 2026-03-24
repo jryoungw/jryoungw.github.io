@@ -1,0 +1,91 @@
+# ─────────────────────────────────────────────
+#  Site Settings
+# ─────────────────────────────────────────────
+title:          "Research Blog"
+tagline:        "Medical AI · Mathematics"
+description:    "Explorations in probabilistic modeling, deep learning theory, and medical AI."
+url:            "https://YOUR_USERNAME.github.io"   # ← GitHub username으로 변경
+baseurl:        ""                                   # repo가 username.github.io면 "" / 아니면 "/repo-name"
+author:
+  name:         "Your Name"
+  email:        "your@email.com"
+  github:       "YOUR_USERNAME"
+  twitter:      ""
+  google_scholar: ""
+
+lang:           "ko"   # 기본 언어
+
+# ─────────────────────────────────────────────
+#  Build
+# ─────────────────────────────────────────────
+markdown:       kramdown
+highlighter:    rouge
+permalink:      /posts/:year/:month/:day/:title/
+
+kramdown:
+  input:        GFM
+  math_engine:  null        # KaTeX는 JS로 처리
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    css_class: "highlight"
+    block:
+      line_numbers: true
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-paginate
+
+paginate:       8
+paginate_path:  "/posts/page/:num/"
+
+# ─────────────────────────────────────────────
+#  Collections
+# ─────────────────────────────────────────────
+collections:
+  publications:
+    output: true
+    permalink: /publications/:name/
+  projects:
+    output: true
+    permalink: /projects/:name/
+
+# ─────────────────────────────────────────────
+#  Defaults
+# ─────────────────────────────────────────────
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      comments: false
+  - scope:
+      path: ""
+      type: "publications"
+    values:
+      layout: "publication"
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "project"
+  - scope:
+      path: "_pages"
+    values:
+      layout: "page"
+
+# ─────────────────────────────────────────────
+include:
+  - img           # /img 폴더 빌드에 포함
+
+# img/README.md는 배포에서 제외
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - README.md
+  - .sass-cache
+  - img/README.md

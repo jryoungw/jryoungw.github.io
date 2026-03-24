@@ -1,0 +1,74 @@
+---
+layout: default
+title: ""
+---
+
+<div class="page-header">
+  <div class="overline">Research Blog</div>
+  <h1>Medical AI & Mathematics</h1>
+  <p class="lead">
+    확률 모델링, 딥러닝 이론, 그리고 의료 영상 분석에 관한 연구 기록입니다.<br>
+    Explorations in probabilistic modeling, deep learning theory, and medical AI.
+  </p>
+</div>
+
+<!-- Featured Equation -->
+<div class="eq-card">
+  <div class="eq-card__label">Featured — Evidence Lower Bound (ELBO)</div>
+  <div>$$\mathcal{L}(\theta, \phi;\, x) = \mathbb{E}_{q_\phi(z|x)}\!\left[\log p_\theta(x|z)\right] - D_{\mathrm{KL}}\!\left(q_\phi(z|x) \;\|\; p(z)\right)$$</div>
+</div>
+
+<!-- Post Grid -->
+<div class="posts-grid">
+  {% for post in paginator.posts %}
+  <article class="post-card">
+    <div class="post-card__meta">
+      <span class="post-card__date">{{ post.date | date: "%Y · %m · %d" }}</span>
+      {% if post.tags %}
+      <div class="tag-list">
+        {% for tag in post.tags %}
+        <span class="tag tag--{{ tag | downcase | replace: ' ', '-' }}">{{ tag }}</span>
+        {% endfor %}
+      </div>
+      {% endif %}
+    </div>
+    <h2 class="post-card__title">
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+    </h2>
+    <p class="post-card__excerpt">
+      {{ post.excerpt | strip_html | truncatewords: 30 }}
+    </p>
+    <div class="post-card__footer">
+      <div class="tag-list">
+        {% if post.math %}<span class="tag tag--math">Math</span>{% endif %}
+      </div>
+      <a class="post-card__read-more" href="{{ post.url | relative_url }}">Read</a>
+    </div>
+  </article>
+  {% endfor %}
+</div>
+
+<!-- Pagination -->
+{% if paginator.total_pages > 1 %}
+<nav class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path | relative_url }}">← Prev</a>
+  {% else %}
+    <span class="disabled">← Prev</span>
+  {% endif %}
+
+  {% for i in (1..paginator.total_pages) %}
+    {% if i == paginator.page %}
+      <span class="current">{{ i }}</span>
+    {% else %}
+      <a href="{% if i == 1 %}{{ '/' | relative_url }}{% else %}{{ site.paginate_path | replace: ':num', i | relative_url }}{% endif %}">{{ i }}</a>
+    {% endif %}
+  {% endfor %}
+
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path | relative_url }}">Next →</a>
+  {% else %}
+    <span class="disabled">Next →</span>
+  {% endif %}
+</nav>
+{% endif %}
