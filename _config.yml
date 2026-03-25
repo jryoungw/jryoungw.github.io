@@ -47,8 +47,6 @@ theme: null
 #  Collections
 # ─────────────────────────────────────────────
 collections:
-  pages:
-    output: true
   publications:
     output: true
     permalink: /publications/:name/
@@ -62,10 +60,9 @@ collections:
 defaults:
   - scope:
       path: ""
-      type: pages
+      type: "posts"
     values:
-      layout: "page"
-      comments: false
+      layout: "post"
   - scope:
       path: ""
       type: "publications"
@@ -76,6 +73,11 @@ defaults:
       type: "projects"
     values:
       layout: "project"
+  - scope:
+      path: "*.md"        # 루트 md 파일들 (about, publications 페이지 등)
+      type: ""
+    values:
+      layout: "page"
 
 # ─────────────────────────────────────────────
 include:
