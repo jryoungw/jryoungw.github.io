@@ -31,7 +31,7 @@ kramdown:
     block:
       line_numbers: true
   parse_block_html: true
-  smart_quotes: lquote,rquote,ldquo,rdquo
+
 
 plugins:
   - jekyll-feed
