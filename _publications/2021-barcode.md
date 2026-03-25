@@ -1,4 +1,5 @@
 ---
+layout: page
 title: "Barcode Method for Generative Model Evaluation driven by Topological Data Analysis"
 authors: "Ryoungwoo Jang, _et al_"
 year: 2021
