@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Comparing chair stand test protocols: Fifth stand versus fifth sit"
-authors: "Sunghwan Ji _et al_"
+authors: "Sunghwan Ji et al"
 year: 2023
 venue: "Geriatrics and Gerontology International"
 type: "Peer-Reviewed Publication"
