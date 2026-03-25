@@ -62,9 +62,9 @@ collections:
 defaults:
   - scope:
       path: ""
-      type: "posts"
+      type: pages
     values:
-      layout: "post"
+      layout: "page"
       comments: false
   - scope:
       path: ""
