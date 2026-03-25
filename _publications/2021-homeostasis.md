@@ -1,4 +1,5 @@
 ---
+layout: page
 title: "Homeostasis Equation: An Approach to Theoretical Medicine"
 authors: "Ryoungwoo Jang, Sunghwan Ji"
 year: 2021
