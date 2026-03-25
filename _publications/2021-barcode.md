@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Barcode Method for Generative Model Evaluation driven by Topological Data Analysis"
-authors: "Ryoungwoo Jang, _et al_"
+authors: "Ryoungwoo Jang, et al"
 year: 2021
 venue: "arXiv preprint"
 type: "arXiv preprint"
