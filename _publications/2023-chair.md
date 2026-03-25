@@ -1,4 +1,5 @@
 ---
+layout: page
 title: "Comparing chair stand test protocols: Fifth stand versus fifth sit"
 authors: "Sunghwan Ji _et al_"
 year: 2023
