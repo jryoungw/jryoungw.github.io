@@ -76,10 +76,6 @@ defaults:
       type: "projects"
     values:
       layout: "project"
-  - scope:
-      path: "_pages"
-    values:
-      layout: "page"
 
 # ─────────────────────────────────────────────
 include:
