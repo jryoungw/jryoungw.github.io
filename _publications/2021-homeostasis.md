@@ -3,7 +3,7 @@ layout: page
 title: "Homeostasis Equation: An Approach to Theoretical Medicine"
 authors: "Ryoungwoo Jang, Sunghwan Ji"
 year: 2021
-venue: "bioRxiv"
+venue: "bioRxiv Preprint"
 type: "bioRxiv"
 arxiv: "https://www.biorxiv.org/content/10.1101/2021.05.22.445244v1.abstract"
 pdf: ""
