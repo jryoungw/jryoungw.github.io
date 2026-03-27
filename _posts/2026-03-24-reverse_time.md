@@ -22,7 +22,7 @@ $$\mu_X(B)=P(X^{-1}(B))$$
 
 이 때 probability measure $\mu_X$는 $X$의 distribution이라고 부른다.
 
-$\int_{X}|X(\omega)|dP(\omega)<\infty$였다면 다음 값
+$\int_{X}|X(\omega)|dP(\omega)\lt\infty$였다면 다음 값
 
 $$\mathbb{E}[X]:=\int_{X}X(\omega)dP(\omega)=\int_{\mathbb{R}^n}xd\mu_X(x)$$
 
