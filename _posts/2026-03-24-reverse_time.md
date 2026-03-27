@@ -84,7 +84,7 @@ $$t\to X_t(\omega);\quad t\in T$$
 
 가 정의됨도 상기하자. 후자는 path라고 불린다.
 
-Process <span>$X=&#123;X_t&#125;_{t\in T}$</span>의 (finite-dimensional) distribution at the
+Process <span>$X=&#123;X_t&#125;\_{t\in T}$</span>의 (finite-dimensional) distribution at the
 measure <span>$\mu_{t_1,\cdots,t_k}$</span>는 <span>$\mathbb{R}^{nk}$</span>위에서 정의되고
 
 $$\mu_{t_1,\cdots t_k}(F_1\times F_2\times \cdots\times F_k)=P[X_{t_1}\in F_1,\cdots,X_{t_k}\in F_k]$$
