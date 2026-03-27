@@ -16,7 +16,7 @@ tags:
 
 # 들어가며
 
-- [이전 글 읽기](https://jryoungw.github.io/posts/Lung_Cancer_History/)
+- [이전 글 읽기](https://jryoungw.github.io/posts/2023/01/18/Lung_Cancer_History/)
 
 의학에서 자연사라고 하는 것은 주로 어떠한 의학적 개입도 없이 어떤 질환을 가만히 놔두면 어떻게 그 질환이 진행되는지에 대한 내용을 다루는 것입니다. 죽는다 할 때의 자연사가 아니라 역사 할때의 사임에 주의하세요.
 
@@ -24,7 +24,7 @@ tags:
 
 ## 폐암의 자연사 - 미국
 
-[이전 글](https://jryoungw.github.io/posts/Lung_Cancer_History/)에서는 폐암 검진을 흉부 X선 사진으로 하려는 시도가 모두 실패했다고 말했고, NLST 연구와 NELSON 연구를 통해 흉부 CT 기반 폐암 검진이 조기 진단을 통해 사망률을 낮출 수 있다는 것을 확인했습니다. 그렇다면 다시 돌아가서, 폐암 검진 없이 임상적으로 진단되는 경우에는 어느 병기에 진단될까요?
+[이전 글](https://jryoungw.github.io/posts/2023/01/18/Lung_Cancer_History/)에서는 폐암 검진을 흉부 X선 사진으로 하려는 시도가 모두 실패했다고 말했고, NLST 연구와 NELSON 연구를 통해 흉부 CT 기반 폐암 검진이 조기 진단을 통해 사망률을 낮출 수 있다는 것을 확인했습니다. 그렇다면 다시 돌아가서, 폐암 검진 없이 임상적으로 진단되는 경우에는 어느 병기에 진단될까요?
 
 [SEER 웹페이지의 Cancer Stat Fact](https://seer.cancer.gov/statfacts/html/lungb.html)를 통해 2015-2021년 사이 동안의 수치를 확인할 수 있는데요, 
 
