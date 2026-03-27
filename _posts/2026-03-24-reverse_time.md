@@ -1,5 +1,6 @@
 ---
 title: "Reverse-time diffusion equation model의 배경지식과 유도"
+layout: post
 tags:
   - deep learning
   - diffusion models
@@ -7,6 +8,7 @@ tags:
   - reverse-time diffusion equation model
 use_math: true
 custom_css: reverse_time
+render_with_liquid: false
 ---
 
 
