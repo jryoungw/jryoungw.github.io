@@ -1,4 +1,13 @@
-# AI가 가이드라인을 만날 때
+---
+title: "AI가 가이드라인을 만날 때"
+date: 2026-05-16
+tags:
+  - Deep learning
+  - Medical AI
+  - Medical Artificial Intelligence
+  - Guidelines
+use_math: true
+---
 
 가이드라인은 전 세계의 의사들이 따르는 표준입니다. 한국어로는 진료지침이라고 번역되기도 하죠. Evidence of pyramid에서도 가이드라인은 거의 최상단의 높은 근거 수준에 위치합니다. 그렇다면 의료인공지능 제품들이 가이드라인에 들어간 것들에는 무엇이 있을까요? 그리고 그것들은 어떻게 해서 들어갔고 어디까지 임상적 역할을 부여받는 것일까요?
 
