@@ -44,7 +44,7 @@ $$
 여기서 $dF/d(x_1,\cdots,x_n)$은 쉽게 말해 다음입니다:
 
 $$
-\frac{dF}{d(x_1,\cdots,x_n)}:=\begin{pmatrix}\frac{dF_1}{dx_1}&\cdots&\frac{dF_1}{dx_n}\\\vdots&\ddots&\vdots\\\frac{dF_n}{dx_1}&\cdots&\frac{dF_n}{dx_n}\end{pmatrix}
+\frac{dF}{d(x_1,\cdots,x_n)}:=\begin{pmatrix}\frac{dF_1}{dx_1}&\cdots&\frac{dF_1}{dx_n}\\ \vdots& \ddots&\vdots\\ \frac{dF_n}{dx_1}&\cdots&\frac{dF_n}{dx_n}\end{pmatrix}
 $$
 
 이 자코비 추측은 1930년대에 제시되었지만 거의 100년이라는 세월동안 풀리지 못했습니다. 그런데 2026년 7월 19일 인공지능 회사 Anthropic의 직원이자 수학자인 Levent Alpöge가 Fable 5 모델을 사용해서 구체적으로 이 추측이 반례를 가진다는 것을 보였습니다. 그 함수는 바로:
