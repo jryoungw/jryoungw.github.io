@@ -55,7 +55,7 @@ $$
 
 였습니다. 구체적으로는, $\det(J_F)=-2$를 가집니다(궁금하면 아래 코드로 계산해 보세요.). 
 
-```python
+```
 import numpy as np
 def F(p):
     x, y, z = p
@@ -67,7 +67,7 @@ def F(p):
     
 from scipy.differentiate import jacobian
 print(np.linalg.det(jacobian(F, [0,0,-1/4]).df)) # np.float64(-1.9999999999999951)
-print(np.linalg.det(jacobian(F, [1,-3/2,13/2]).df)) # np.linalg.det(jacobian(F, [1,-3/2,13/2]).df)
+print(np.linalg.det(jacobian(F, [1,-3/2,13/2]).df)) # np.float64(-1.999999999999995)
 ```
 
 하지만, 이 함수는 injective가 아닙니다. 실제로,
@@ -78,7 +78,7 @@ $$
 
 이기 때문입니다. $a\neq b$인데 $F(a)=F(b)$이므로 일단 injective가 아니고, 따라서 bijective가 될 수가 없습니다. 매우 간결하고 깔끔한 반례이네요.
 
-```python
+```
 F((0,0,-1/4)) # array([-0.25,  0.  ,  0.  ])
 F((1, -3/2, 13/2)) # array([-0.25,  0.  ,  0.  ])
 ```
