@@ -102,7 +102,7 @@ $$
 두 행렬을 생각해 봅시다.
 
 $$
-A=\begin{pmatrix}1&2\\\\3&4\end{pmatrix},\quad B=\begin{pmatrix}1&1\\\\1&1\end{pmatrix}
+A=\begin{pmatrix}1&2\\\\ 3&4\end{pmatrix},\quad B=\begin{pmatrix}1&1\\\\ 1&1\end{pmatrix}
 $$
 
 행렬 $A$는 가역이고, 행렬 $B$는 비가역입니다. (이해를 돕기 위해 풀리지 않은 2차원의 예시를 들고 왔습니다.) $A$는 역함수(=역행렬)를 가지므로, $\mathbb{R}^2$의 각 점에서도 local하게 역함수를 가집니다. 즉, local하게 정보를 보존하는 것을 잘 이어붙이면 global하게도 정보가 보존된다는 것을 알 수 있습니다. 하지만 $B$의 경우에는, $B(1,2)^t$와 $B(2,1)^t$이 같은 값을 가지기 때문에 local하게도, global하게도 정보가 100% 보존되지 않습니다.
