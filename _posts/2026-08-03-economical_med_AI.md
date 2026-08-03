@@ -1,4 +1,14 @@
-# 의료인공지능의 경제학
+---
+title: "의료인공지능의 경제학"
+date: 2026-08-03
+tags:
+  - Deep learning
+  - Medical AI
+  - Medical Artificial Intelligence
+  - Economy
+  - Cost-Effectiveness
+use_math: true
+---
 
 # 들어가며
 
