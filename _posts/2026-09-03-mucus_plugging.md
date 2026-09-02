@@ -1,3 +1,14 @@
+---
+title: "호흡기학의 핫이슈, 가래"
+date: 2026-09-03
+tags:
+  - Medical AI
+  - Medical Artificial Intelligence
+  - Pulmonology
+  - ChestCT
+use_math: true
+---
+
 # 호흡기학의 핫이슈 - 가래
 
 감기에 걸리면 가래가 나오는 것은 당연한 인체의 이치입니다. 그런데, 가래를 뱉지 못하는 고령의 환자, 아니면 다른 질환이 있는 환자들에게서 가래는 어떻게 질환의 진행에 영향을 줄까요?
