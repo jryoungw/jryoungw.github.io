@@ -12,7 +12,7 @@ Mucus의 hypersecretion/dehydration → 점액이 viscoelastic liquid에서 visc
 
 - 즉, Mucin 증가, water 감소 → 점성, 탄성 증가 → ciliary collapse → clearance 감소 → plug → airway obstruction이라는 흐름
 
-![스크린샷 2026-09-02 23.38.40.png](%ED%98%B8%ED%9D%A1%EA%B8%B0%ED%95%99%EC%9D%98%20%ED%95%AB%EC%9D%B4%EC%8A%88%20-%20%EA%B0%80%EB%9E%98/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2026-09-02_23.38.40.png)
+![스크린샷 2026-09-02 23.38.40.png](/img/mp1.png)
 
 이 그림을 요약하면
 
@@ -148,7 +148,7 @@ COPD에서 IL-33 항체인 tozorakimab이 phase 2a에서 MP 감소는 헀지만 
 
 # Xe-129 MRI ventilation
 
-![스크린샷 2026-09-03 00.06.35.png](%ED%98%B8%ED%9D%A1%EA%B8%B0%ED%95%99%EC%9D%98%20%ED%95%AB%EC%9D%B4%EC%8A%88%20-%20%EA%B0%80%EB%9E%98/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2026-09-03_00.06.35.png)
+![스크린샷 2026-09-03 00.06.35.png](/img/mp2.png)
 
 치료 전에는 MP → distal airway invisible/blocked → ventilaiton defect였으나 치료 후에는 MP가 사라지며 distal airway가 재개통되어 ventilaiton recovey가 시각적으로 보입니다.
 
