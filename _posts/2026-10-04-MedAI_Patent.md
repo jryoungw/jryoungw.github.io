@@ -1,4 +1,12 @@
-# 의료인공지능과 특허 - 분쟁을 중심으로
+---
+title: "의료인공지능과 특허 - 분쟁을 중심으로"
+date: 2026-10-04
+tags:
+  - Medical AI
+  - Medical Artificial Intelligence
+  - Patent
+use_math: true
+---
 
 이 글은 Claude.ai의 도움을 받아 작성되었습니다.
 
