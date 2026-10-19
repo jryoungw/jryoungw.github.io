@@ -1,11 +1,16 @@
 # LLM 규제의 최신 동향 - 미국 FDA와 한국 식약처
 
 ---
-
-## title: “LLM 규제의 최신 동향 - FDA와 식약처”
-date: 2026-10-19
-tags: [Medical AI, Generative AI, FDA, MFDS, Regulation, SaMD]
-
+- title: “LLM 규제의 최신 동향 - FDA와 식약처”
+- date: 2026-10-19
+- tags:
+  - Medical AI
+  - Generative AI
+  - FDA
+  - MFDS
+  - Regulation
+  - SaMD
+- use_math: true
 ---
 
 # 들어가며
