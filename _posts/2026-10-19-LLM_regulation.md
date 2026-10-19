@@ -53,7 +53,7 @@ FDA의 논의는 후자에 가깝습니다.
 
 FDA는 생성형 AI 의료기기의 위험을 이해하기 위한 하나의 방법으로 2축 위험도 프레임워크(two-axis risk framework)를 제시합니다. 가로축은 AI가 수행하는 활동의 성격과 독립성(Activity), 세로축은 잘못된 출력에 의존했을 때 발생할 수 있는 위해의 심각도(Consequences)입니다.
 
-![image.png](LLM%20%EA%B7%9C%EC%A0%9C%EC%9D%98%20%EC%B5%9C%EC%8B%A0%20%EB%8F%99%ED%96%A5%20-%20%EB%AF%B8%EA%B5%AD%20FDA%EC%99%80%20%ED%95%9C%EA%B5%AD%20%EC%8B%9D%EC%95%BD%EC%B2%98/image.png)
+![image.png](/img/llm-regulation.png)
 
 활동 수준은 대략 다음과 같은 연속선으로 생각할 수 있습니다.
 
