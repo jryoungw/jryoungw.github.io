@@ -4,12 +4,12 @@
 title: “LLM 규제의 최신 동향 - FDA와 식약처”
 date: 2026-10-19
 tags:
-- Medical AI
-- Generative AI
-- FDA
-- MFDS
-- Regulation
-- SaMD
+  - Medical AI
+  - Generative AI
+  - FDA
+  - MFDS
+  - Regulation
+  - SaMD
 use_math: true
 ---
 
